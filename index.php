@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
 
-
-<!-- Mirrored from andit.co/projects/html/and-tour/demo/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Nov 2024 06:21:06 GMT -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,8 +12,7 @@
     <link rel="stylesheet" href="assets/css/animate.min.css" />
     <!-- Fontawesome css -->
     <link rel="stylesheet" href="assets/css/fontawesome.all.min.css" />
-    <link rel="stylesheet" href="../../../../../cdn.jsdelivr.net/npm/bootstrap-icons%401.8.2/font/bootstrap-icons.css">
-    <!-- owl.carousel css -->
+    <link rel="stylesheet" href="../../../../../cdn.jsdelivr.net/npm/bootstrap-icons%401.8.2/font/bootstrap-icons.css">    <!-- owl.carousel css -->
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
     <!-- owl.theme.default css -->
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css" />
@@ -55,223 +52,11 @@
     </div>
 
     <!-- Header Area -->
-    <header class="main_header_arae navbar_color_black">
-        <!-- Top Bar -->
-        <div class="topbar-area">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-                        <ul class="topbar-list">
-                            <li>
-                                <a href="#!"><i class="fab fa-facebook"></i></a>
-                                <a href="#!"><i class="fab fa-twitter-square"></i></a>
-                                <a href="#!"><i class="fab fa-instagram"></i></a>
-                                <a href="#!"><i class="fab fa-linkedin"></i></a>
-                            </li>
-                            <li><a href="#!"><span>+255 234 567 89</span></a></li>
-                            <li><a href="Mailto:inquiry@nortazsafari.com"><span>inquiry@nortazsafari.com</span></a></li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <ul class="topbar-others-options">
-                            <li><a href="login.html">Login</a></li>
-                            <li><a href="register.html">Sign up</a></li>
-                            <li>
-                                <div class="dropdown language-option">
-                                    <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown"
-                                        aria-haspopup="true" aria-expanded="false">
-                                        <span class="lang-name"></span>
-                                    </button>
-                                    <div class="dropdown-menu language-dropdown-menu">
-                                        <a class="dropdown-item" href="#">English</a>
-                                        <a class="dropdown-item" href="#">Arabic</a>
-                                        <a class="dropdown-item" href="#">French</a>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="dropdown language-option">
-                                    <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown"
-                                        aria-haspopup="true" aria-expanded="false">
-                                        <span class="lang-name"></span>
-                                    </button>
-                                    <div class="dropdown-menu language-dropdown-menu">
-                                        <a class="dropdown-item" href="#">USD</a>
-                                        <a class="dropdown-item" href="#">BD</a>
-                                        <a class="dropdown-item" href="#">URO</a>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <?php
+    include "includes/navbar.php"
+    ?>
+    <!-- Header Area -->
 
-        <!-- Navbar Bar -->
-        <div class="navbar-area">
-            <div class="main-responsive-nav">
-                <div class="container">
-                    <div class="main-responsive-menu">
-                        <div class="logo">
-                            <a href="index.html">
-                                <img src="assets/img/logo.png" alt="logo">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="main-navbar">
-                <div class="container">
-                    <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index.html">
-                            <img src="assets/img/logo_black.png" alt="logo">
-                        </a>
-                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                            <ul class="navbar-nav">
-                                <li class="nav-item">
-                                    <a href="tour-search.html" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="tour-details.html" class="nav-link">7 Days- Perfect Combo</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">6 Days-Wildlife DIscovery</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">6 Days- Restfull</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">5 Days- Lively Days-Wildlife</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">5 Days- The thrilling</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="climbtrekk.html" class="nav-link">Climb & trekk<i class="fas fa-angle-down"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">10 Days Lemosho Route</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">9 Days Machame Route</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">8 Days Rongai Route</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">7 Days Marangu Route</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">6 Days mt Meru Route</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                
-                                <li class="nav-item">
-                                    <a href="#"
-                                        class="nav-link">Trips <i
-                                            class="fas fa-angle-down"></i></a>
-                                    <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">Day
-                                            Trips <i
-                                                class="fas fa-angle-down"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li class="nav-item">
-                                                <a href="#"
-                                                    class="nav-link">10 Days
-                                                    Lemosho Route</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#"
-                                                    class="nav-link">9 Days
-                                                    Machame Route</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#"
-                                                    class="nav-link">8 Days
-                                                    Rongai Route</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#"
-                                                    class="nav-link">7 Days
-                                                    Marangu Route</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#"
-                                                    class="nav-link">6 Days
-                                                    mt Meru Route</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    
-                                    <li class="nav-item">
-                                        <a href="#"
-                                            class="nav-link">Special Trips <i
-                                                class="fas fa-angle-down"></i></a>
-                                        <ul class="dropdown-menu">
-                                            <li class="nav-item">
-                                                <a href="#"
-                                                    class="nav-link">Honeymoon</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    
-                                    </ul>
-                                </li>
-                                        <li class="nav-item">
-                                            <a href="/about.html"
-                                                class="nav-link">About</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="/contact.html"
-                                                class="nav-link">Contact</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                            <div class="others-options d-flex align-items-center">
-                                <div class="option-item">
-                                    <a href="#" class="search-box">
-                                        <i class="bi bi-search"></i>
-                                    </a>
-                                </div>
-                                <div class="option-item">
-                                    <a href="#" class="btn  btn_navber">Book Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-            <div class="others-option-for-responsive">
-                <div class="container">
-                    <div class="dot-menu">
-                        <div class="inner">
-                            <div class="circle circle-one"></div>
-                            <div class="circle circle-two"></div>
-                            <div class="circle circle-three"></div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="option-inner">
-                            <div class="others-options d-flex align-items-center">
-                                <div class="option-item">
-                                    <a href="#" class="search-box"><i class="fas fa-search"></i></a>
-                                </div>
-                                <div class="option-item">
-                                    <a href="contact.html" class="btn  btn_navber">Get free quote</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
 
     <!-- search -->
     <div class="search-overlay">
@@ -752,7 +537,7 @@
                                 </div>
                             </div>
                         </div>
-                     
+
                         <div class="tab-pane fade" id="nav-space" role="tabpanel" aria-labelledby="nav-space-tab">
                             <div class="row">
                                 <div class="col-lg-12">
@@ -1296,285 +1081,177 @@
         </div>
     </section> -->
 
-    <!-- Tour Types Area -->
-    <section id="popular_tours_four" class="section_padding_top">
-        <div class="container">
-            <!-- Section Heading -->
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="section_heading_left">
-                        <h2>Our Tour Category</h2>
-                        <p></p>
-                    </div>
-                </div>
-            </div>
-            <!-- inner content -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="tour_type_slider button_style_top_left owl-theme owl-carousel">
-                        <div class="tour_type_boxed">
-                            <img src="assets/img/icon/forest.png" alt="icon">
-                            <h3>Explore Forest</h3>
-                            <p></p>
-                        </div>
-                        <div class="tour_type_boxed">
-                            <img src="assets/img/icon/bag.png" alt="icon">
-                            <h3>Lone Travel</h3>
-                            <p></p>
-                        </div>
-                        <div class="tour_type_boxed">
-                            <img src="assets/img/icon/tour.png" alt="icon">
-                            <h3>Adventure Tour</h3>
-                            <p></p>
-                        </div>
-                        <div class="tour_type_boxed">
-                            <img src="assets/img/icon/family.png" alt="icon">
-                            <h3>Family Tour</h3>
-                            <p></p>
-                        </div>
-                        <div class="tour_type_boxed">
-                            <img src="assets/img/icon/beach.png" alt="icon">
-                            <h3>Beach Tour</h3>
-                            <p></p>
-                        </div>
-                        <div class="tour_type_boxed">
-                            <img src="assets/img/icon/bag.png" alt="icon">
-                            <h3>Lone Travel</h3>
-                            <p></p>
-                        </div>
-                        <div class="tour_type_boxed">
-                            <img src="assets/img/icon/tour.png" alt="icon">
-                            <h3>Safari Tour</h3>
-                            <p></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+                        <!-- Tour Types Area -->
+                        <section id="popular_tours_four" class="section_padding_top">
+                            <div class="container">
+                                <!-- Section Heading -->
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="section_heading_left">
+                                            <h2>Our Tour Category</h2>
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- inner content -->
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="tour_type_slider button_style_top_left owl-theme owl-carousel">
+                                            <div class="tour_type_boxed">
+                                                <img src="assets/img/icon/forest.png" alt="icon">
+                                                <h3>Explore Forest</h3>
+                                                <p></p>
+                                            </div>
+                                            <div class="tour_type_boxed">
+                                                <img src="assets/img/icon/bag.png" alt="icon">
+                                                <h3>Lone Travel</h3>
+                                                <p></p>
+                                            </div>
+                                            <div class="tour_type_boxed">
+                                                <img src="assets/img/icon/tour.png" alt="icon">
+                                                <h3>Adventure Tour</h3>
+                                                <p></p>
+                                            </div>
+                                            <div class="tour_type_boxed">
+                                                <img src="assets/img/icon/family.png" alt="icon">
+                                                <h3>Family Tour</h3>
+                                                <p></p>
+                                            </div>
+                                            <div class="tour_type_boxed">
+                                                <img src="assets/img/icon/beach.png" alt="icon">
+                                                <h3>Beach Tour</h3>
+                                                <p></p>
+                                            </div>
+                                            <div class="tour_type_boxed">
+                                                <img src="assets/img/icon/bag.png" alt="icon">
+                                                <h3>Lone Travel</h3>
+                                                <p></p>
+                                            </div>
+                                            <div class="tour_type_boxed">
+                                                <img src="assets/img/icon/tour.png" alt="icon">
+                                                <h3>Safari Tour</h3>
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
 
-    <!-- Destinations Area -->
-    <section id="destinations_area" class="section_padding_top">
-        <div class="container">
-            <!-- Section Heading -->
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="section_heading_left">
-                        <h2>Place to visit in Tanzania.</h2>
-                        <p></p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="section_heading_left_view_all">
-                        <!-- <a href="top-destinations.html">View all</a> -->
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="tab_destinations_boxed">
-                        <div class="tab_destinations_img">
-                            <a href="top-destinations.html"><img src="assets/img/destination/destination-small1.png"
-                                    alt="img"></a>
-                        </div>
-                        <div class="tab_destinations_conntent">
-                            <h3><a href="top-destinations.html">Mt Kilimanjaro trek to Base Camp</a></h3>
-                            <p><span></span></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="tab_destinations_boxed">
-                        <div class="tab_destinations_img">
-                            <a href="top-destinations.html"><img src="assets/img/destination/destination-small2.png"
-                                    alt="img"></a>
-                        </div>
-                        <div class="tab_destinations_conntent">
-                            <h3><a href="top-destinations.html">Mt. Meru Trekk</a></h3>
-                            <p><span></span></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="tab_destinations_boxed">
-                        <div class="tab_destinations_img">
-                            <a href="top-destinations.html"><img src="assets/img/destination/destination-small3.png"
-                                    alt="img"></a>
-                        </div>
-                        <div class="tab_destinations_conntent">
-                            <h3><a href="top-destinations.html">Marungu Hot springs</a></h3>
-                            <p><span></span></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="tab_destinations_boxed">
-                        <div class="tab_destinations_img">
-                            <a href="top-destinations.html"><img src="assets/img/destination/destination-small4.png"
-                                    alt="img"></a>
-                        </div>
-                        <div class="tab_destinations_conntent">
-                            <h3><a href="top-destinations.html">Zanzibar </a></h3>
-                            <p><span></span></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="tab_destinations_boxed">
-                        <div class="tab_destinations_img">
-                            <a href="top-destinations.html"><img src="assets/img/destination/destination-small5.png"
-                                    alt="img"></a>
-                        </div>
-                        <div class="tab_destinations_conntent">
-                            <h3><a href="top-destinations.html">Serengeti National Park</a></h3>
-                            <p><span></span></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <div class="tab_destinations_boxed">
-                        <div class="tab_destinations_img">
-                            <a href="top-destinations.html"><img src="assets/img/destination/destination-small6.png"
-                                    alt="img"></a>
-                        </div>
-                        <div class="tab_destinations_conntent">
-                            <h3><a href="top-destinations.html">Marangu Base camp</a></h3>
-                            <p> <span></span></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                        <!-- Destinations Area -->
+                        <section id="destinations_area" class="section_padding_top">
+                            <div class="container">
+                                <!-- Section Heading -->
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="section_heading_left">
+                                            <h2>Place to visit in Tanzania.</h2>
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                                        <div class="section_heading_left_view_all">
+                                            <!-- <a href="top-destinations.html">View all</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                                        <div class="tab_destinations_boxed">
+                                            <div class="tab_destinations_img">
+                                                <a href="top-destinations.html"><img src="assets/img/destination/destination-small1.png"
+                                                        alt="img"></a>
+                                            </div>
+                                            <div class="tab_destinations_conntent">
+                                                <h3><a href="top-destinations.html">Mt Kilimanjaro trek to Base Camp</a></h3>
+                                                <p><span></span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                                        <div class="tab_destinations_boxed">
+                                            <div class="tab_destinations_img">
+                                                <a href="top-destinations.html"><img src="assets/img/destination/destination-small2.png"
+                                                        alt="img"></a>
+                                            </div>
+                                            <div class="tab_destinations_conntent">
+                                                <h3><a href="top-destinations.html">Mt. Meru Trekk</a></h3>
+                                                <p><span></span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                                        <div class="tab_destinations_boxed">
+                                            <div class="tab_destinations_img">
+                                                <a href="top-destinations.html"><img src="assets/img/destination/destination-small3.png"
+                                                        alt="img"></a>
+                                            </div>
+                                            <div class="tab_destinations_conntent">
+                                                <h3><a href="top-destinations.html">Marungu Hot springs</a></h3>
+                                                <p><span></span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                                        <div class="tab_destinations_boxed">
+                                            <div class="tab_destinations_img">
+                                                <a href="top-destinations.html"><img src="assets/img/destination/destination-small4.png"
+                                                        alt="img"></a>
+                                            </div>
+                                            <div class="tab_destinations_conntent">
+                                                <h3><a href="top-destinations.html">Zanzibar </a></h3>
+                                                <p><span></span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                                        <div class="tab_destinations_boxed">
+                                            <div class="tab_destinations_img">
+                                                <a href="top-destinations.html"><img src="assets/img/destination/destination-small5.png"
+                                                        alt="img"></a>
+                                            </div>
+                                            <div class="tab_destinations_conntent">
+                                                <h3><a href="top-destinations.html">Serengeti National Park</a></h3>
+                                                <p><span></span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                                        <div class="tab_destinations_boxed">
+                                            <div class="tab_destinations_img">
+                                                <a href="top-destinations.html"><img src="assets/img/destination/destination-small6.png"
+                                                        alt="img"></a>
+                                            </div>
+                                            <div class="tab_destinations_conntent">
+                                                <h3><a href="top-destinations.html">Marangu Base camp</a></h3>
+                                                <p> <span></span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
 
-        </div>
-    </section>
+                            </div>
+                        </section>
 
-    <!-- Footer  -->
-    <footer id="footer_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <div class="footer_heading_area">
-                        <h5>Need any help?</h5>
-                    </div>
-                    <div class="footer_first_area">
-                        <div class="footer_inquery_area">
-                            <h5>Call 24/7 for any help</h5>
-                            <h3> <a href="tel:+00-123-456-789">+255 023 456 789</a></h3>
-                        </div>
-                        <div class="footer_inquery_area">
-                            <h5>Mail to our support team</h5>
-                            <h3> <a href="mailto:support@domain.com">support@nortazsafari.com</a></h3>
-                        </div>
-                        <div class="footer_inquery_area">
-                            <h5>Follow us on</h5>
-                            <ul class="soical_icon_footer">
-                                <li><a href="#!"><i class="fab fa-facebook"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-twitter-square"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="#!"><i class="fab fa-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-2 offset-lg-1 col-md-6 col-sm-6 col-12">
-                    <div class="footer_heading_area">
-                        <h5>Company</h5>
-                    </div>
-                    <div class="footer_link_area">
-                        <ul>
-                            <li><a href="about.html">About Us</a></li>
-                            <!-- <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="faqs.html">Rewards</a></li>
-                            <li><a href="terms-service.html">Work with Us</a></li> -->
-                            <li><a href="tour-guides.html">Meet the Team </a></li>
-                            <li><a href="news.html">Blog</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-                    <div class="footer_heading_area">
-                        <h5>Support</h5>
-                    </div>
-                    <div class="footer_link_area">
-                        <ul>
-                            <!-- <li><a href="dashboard.html">Account</a></li> -->
-                            <li><a href="faq.html">Faq</a></li>
-                            <li><a href="testimonials.html">Legal</a></li>
-                            <li><a href="contact.html">Contact</a></li>
-                            <!-- <li><a href="top-destinations.html"> Affiliate Program</a></li> -->
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-                    <div class="footer_heading_area">
-                        <h5>Other Services</h5>
-                    </div>
-                    <div class="footer_link_area">
-                        <ul>
-                            <li><a href="top-destinations-details.html">Community program</a></li>
-                            <li><a href="top-destinations-details.html">Investor Relations</a></li>
-                            <li><a href="flight-search-result.html">Rewards Program</a></li>
-                            <li><a href="room-booking.html">PointsPLUS</a></li>
-                            <li><a href="testimonials.html">Partners</a></li>
-                            <li><a href="hotel-search.html">List My Hotel</a></li>
-                        </ul>
-                    </div>
-                </div> -->
-                <!-- <div class="col-lg-2 col-md-4 col-sm-6 col-12">
-                    <div class="footer_heading_area">
-                        <h5>Top cities</h5>
-                    </div>
-                    <div class="footer_link_area">
-                        <ul>
-                            <li><a href="room-details.html">Chicago</a></li>
-                            <li><a href="hotel-details.html">New York</a></li>
-                            <li><a href="hotel-booking.html">San Francisco</a></li>
-                            <li><a href="tour-search.html">California</a></li>
-                            <li><a href="tour-booking.html">Ohio </a></li>
-                            <li><a href="tour-guides.html">Alaska</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-    </footer>
-    <div class="copyright_area">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="co-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="copyright_left">
-                        <p>Copyright © 2024 Nortazsafari ltd All Rights Reserved</p>
-                    </div>
-                </div>
-                <div class="co-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="copyright_right">
-                        <img src="assets/img/common/cards.png" alt="img">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="go-top">
-        <i class="fas fa-chevron-up"></i>
-        <i class="fas fa-chevron-up"></i>
-    </div>
+                        <!-- Footer -->
+                        <?php
+                        include "includes/footer.php"
+                        ?>
+                        <!-- Footer-->
 
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <!-- Bootstrap js -->
-    <script src="assets/js/bootstrap.bundle.js"></script>
-    <!-- Meanu js -->
-    <script src="assets/js/jquery.meanmenu.js"></script>
-    <!-- owl carousel js -->
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <!-- wow.js -->
-    <script src="assets/js/wow.min.js"></script>
-    <!-- Custom js -->
-    <script src="assets/js/custom.js"></script>
-    <script src="assets/js/add-form.js"></script>
-    <script src="assets/js/form-dropdown.js"></script>
+                        <script src="assets/js/jquery-3.6.0.min.js"></script>
+                        <!-- Bootstrap js -->
+                        <script src="assets/js/bootstrap.bundle.js"></script>
+                        <!-- Meanu js -->
+                        <script src="assets/js/jquery.meanmenu.js"></script>
+                        <!-- owl carousel js -->
+                        <script src="assets/js/owl.carousel.min.js"></script>
+                        <!-- wow.js -->
+                        <script src="assets/js/wow.min.js"></script>
+                        <!-- Custom js -->
+                        <script src="assets/js/custom.js"></script>
+                        <script src="assets/js/add-form.js"></script>
+                        <script src="assets/js/form-dropdown.js"></script>
 </body>
 
-
-<!-- Mirrored from andit.co/projects/html/and-tour/demo/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Nov 2024 06:21:37 GMT -->
 </html>
