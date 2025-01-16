@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title -->
-    <title>About - Andtourtravel </title>
+    <title>Nortaz Safari LTD - About</title>
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- animate css -->
@@ -58,10 +58,10 @@
 
     <!-- Header Area -->
     <?php
-      include "includes/navbar.php"
+    include "includes/navbar.php"
     ?>
     <!-- Header Area -->
-    
+
     <!-- search -->
     <div class="search-overlay">
         <div class="d-table">
@@ -191,8 +191,6 @@
             </div>
         </div>
     </section>
-
-
     <!-- Cta Area -->
     <section id="cta_area">
         <div class="container">

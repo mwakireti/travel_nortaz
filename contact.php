@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title -->
-    <title>Nortaz Tours - Contact</title>
+    <title>Nortaz Safari LTD - Contact</title>
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- animate css -->
@@ -56,10 +56,10 @@
 
     <!-- Header Area -->
     <?php
-      include "includes/navbar.php"
+    include "includes/navbar.php"
     ?>
     <!-- Header Area -->
-    
+
     <!-- search -->
     <div class="search-overlay">
         <div class="d-table">
@@ -114,9 +114,9 @@
                         <div class="contact_left_top_heading">
                             <h2>Do you have any query? Contact with us to get any
                                 any support.</h2>
-                                <h3>Leave us a message</h3>
+                            <h3>Leave us a message</h3>
                             <p>Lorem ipsum dolor sit amet, cibo mundi ea duo, vim exerci phaedrum.
-                                 There are many variations of passages of Lorem Ipsum available but the majority.</p>
+                                There are many variations of passages of Lorem Ipsum available but the majority.</p>
                         </div>
                         <div class="contact_form_two">
                             <form action="https://andit.co/projects/html/and-tour/demo/!#" id="contact_form_content">
@@ -214,11 +214,11 @@
     </section>
 
     <!-- Footer -->
-     <?php
-     include "includes/footer.php" 
-     ?>
+    <?php
+    include "includes/footer.php"
+    ?>
     <!-- Footer -->
-    
+
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap js -->
     <script src="assets/js/bootstrap.bundle.js"></script>
@@ -234,4 +234,5 @@
 
 
 </body>
+
 </html>

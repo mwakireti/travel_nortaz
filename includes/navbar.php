@@ -15,7 +15,6 @@
                 <li><a href="Mailto:inquiry@nortazsafari.com"><span>inquiry@nortazsafari.com</span></a></li>
               </ul>
             </div>
-
           </div>
         </div>
       </div>
@@ -27,7 +26,7 @@
             <div class="main-responsive-menu">
               <div class="logo">
                 <a href="index.php">
-                  <img src="assets/img/logo.png" alt="logo">
+                  <img style="width:70px;" src="assets/img/logo_black.png" alt="logo">
                 </a>
               </div>
             </div>
@@ -37,7 +36,7 @@
           <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
               <a class="navbar-brand" href="index.php">
-                <img src="assets/img/logo_black.png" alt="logo">
+                <img style="width:70px;" src="assets/img/logo_black.png" alt="logo">
               </a>
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav">
@@ -175,7 +174,7 @@
                     <a href="#" class="search-box"><i class="fas fa-search"></i></a>
                   </div>
                   <div class="option-item">
-                    <a href="contact.html" class="btn  btn_navber">Get free quote</a>
+                    <a href="contact.php" class="btn  btn_navber">Get free quote</a>
                   </div>
                 </div>
               </div>
@@ -184,4 +183,3 @@
         </div>
       </div>
     </header>
-    

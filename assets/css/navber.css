@@ -171,6 +171,7 @@
 .main_header_arae {
     position: absolute;
     width: 100%;
+    background-color:#fff;
     z-index: 9999;
 }
 .main_header_arae_two {
