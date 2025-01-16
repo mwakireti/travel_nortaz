@@ -25,7 +25,7 @@
           <div class="container">
             <div class="main-responsive-menu">
               <div class="logo">
-                <a href="index.php">
+                <a href="home">
                   <img style="width:70px;" src="assets/img/logo_black.png" alt="logo">
                 </a>
               </div>
@@ -35,13 +35,13 @@
         <div class="main-navbar">
           <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
-              <a class="navbar-brand" href="index.php">
+              <a class="navbar-brand" href="home">
                 <img style="width:70px;" src="assets/img/logo_black.png" alt="logo">
               </a>
               <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a href="tour-search.php" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
+                    <a href="safari" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
                         <a href="tour-details.php" class="nav-link">7 Days- Perfect Combo</a>
@@ -61,7 +61,7 @@
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a href="climbtrekk.php" class="nav-link">Climb & trekk<i class="fas fa-angle-down"></i></a>
+                    <a href="climbtrekk" class="nav-link">Climb & trekk<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
                         <a href="#" class="nav-link">10 Days Lemosho Route</a>
@@ -134,11 +134,11 @@
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a href="about.php"
+                    <a href="about"
                       class="nav-link">About</a>
                   </li>
                   <li class="nav-item">
-                    <a href="contact.php"
+                    <a href="contact"
                       class="nav-link">Contact</a>
                   </li>
                 </ul>

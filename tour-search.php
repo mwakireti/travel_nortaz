@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title -->
-    <title>Safari - Tour Packages </title>
+    <title>Nortaz Safari - Tour Packages </title>
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- animate css -->
@@ -88,7 +88,7 @@
                     <div class="common_bannner_text">
                         <h2>Safari search result</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="home">Home</a></li>
                             <li><span><i class="fas fa-circle"></i></span> Tours</li>
                         </ul>
                     </div>

@@ -44,9 +44,9 @@
         </div>
         <div class="footer_link_area">
           <ul>
-            <li><a href="testimonials.php">Legal</a></li>
-            <li><a href="contact.php">Contact</a></li>
-            <li><a href="privacy-policy.php">Privacy Policy</a></li>
+            <li><a href="testimonials">Legal</a></li>
+            <li><a href="contact">Contact</a></li>
+            <li><a href="privacy-policy">Privacy Policy</a></li>
           </ul>
         </div>
       </div>

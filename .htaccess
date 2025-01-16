@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule ^home$ index.php [L]
+RewriteRule ^contact$ contact.php [L]
+RewriteRule ^about$ about.php [L]
+RewriteRule ^climbtrekk$ climbtrekk.php [L]
+RewriteRule ^safari$ tour-search.php [L]
+RewriteRule ^privacy-policy$ privacy-policy.php [L]
+RewriteRule ^testimonials$ testimonials.php [L]
