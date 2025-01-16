@@ -92,7 +92,7 @@
                     <div class="common_bannner_text">
                         <h2>Privacy Policy</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="home">Home</a></li>
                             <li><span><i class="fas fa-circle"></i></span> Privacy Policy</li>
                         </ul>
                     </div>

@@ -82,7 +82,7 @@
                   </li>
 
                   <li class="nav-item">
-                    <a href="#"
+                    <a href="javascript:void(0);"
                       class="nav-link">Trips <i
                         class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">

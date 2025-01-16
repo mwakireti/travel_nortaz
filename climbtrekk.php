@@ -88,7 +88,7 @@
                     <div class="common_bannner_text">
                         <h2>Climb & Trekk search result</h2>
                         <ul>
-                            <li><a href="index.php">Home</a></li>
+                            <li><a href="home">Home</a></li>
                             <li><span><i class="fas fa-circle"></i></span> Tours</li>
                         </ul>
                     </div>
@@ -114,11 +114,11 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                         <div class="theme_common_box_two img_hover">
                             <div class="theme_two_box_img">
-                                <a href="tour-details.php"><img src="assets/img/tour/popular-7.png" alt="img"></a>
+                                <a href="tour-details"><img src="assets/img/tour/popular-7.png" alt="img"></a>
                                 <p><i class="fas fa-map-marker-alt"></i>Tanzania</p>
                             </div>
                             <div class="theme_two_box_content">
-                                <h4><a href="tour-details.php">10 Days Lemosho Route</a></h4>
+                                <h4><a href="tour-details">10 Days Lemosho Route</a></h4>
                                 <p><span class="review_rating">4.8/5 Excellent</span> <span
                                         class="review_count">(1214
                                         reviewes)</span></p>
@@ -129,7 +129,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                         <div class="theme_common_box_two img_hover">
                             <div class="theme_two_box_img">
-                                <a href="tour-details.php"><img src="assets/img/tour/popular-6.png" alt="img"></a>
+                                <a href="tour-details"><img src="assets/img/tour/popular-6.png" alt="img"></a>
                                 <p><i class="fas fa-map-marker-alt"></i>Tanzania</p>
                                 <div class="discount_tab">
                                     <span></span>
@@ -137,7 +137,7 @@
 
                             </div>
                             <div class="theme_two_box_content">
-                                <h4><a href="tour-details.php">9 Days Machame Route</a></h4>
+                                <h4><a href="tour-details">9 Days Machame Route</a></h4>
                                 <p><span class="review_rating">4.8/5 Excellent</span> <span
                                         class="review_count">(1214
                                         reviewes)</span></p>
@@ -148,11 +148,11 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                         <div class="theme_common_box_two img_hover">
                             <div class="theme_two_box_img">
-                                <a href="tour-details.php"><img src="assets/img/tour/popular-1.png" alt="img"></a>
+                                <a href="tour-details"><img src="assets/img/tour/popular-1.png" alt="img"></a>
                                 <p><i class="fas fa-map-marker-alt"></i>Tanzania</p>
                             </div>
                             <div class="theme_two_box_content">
-                                <h4><a href="tour-details.php">6 Days Restful</a></h4>
+                                <h4><a href="tour-details">6 Days Restful</a></h4>
                                 <p><span class="review_rating">4.8/5 Excellent</span> <span
                                         class="review_count">(1214
                                         reviewes)</span></p>
@@ -170,7 +170,7 @@
                                 </div>
                             </div>
                             <div class="theme_two_box_content">
-                                <h4><a href="tour-details.php"> 8 Days Ronngai Route</a></h4>
+                                <h4><a href="tour-details"> 8 Days Ronngai Route</a></h4>
                                 <p><span class="review_rating">4.8/5 Excellent</span> <span
                                         class="review_count">(1214
                                         reviewes)</span></p>
@@ -181,11 +181,11 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                         <div class="theme_common_box_two img_hover">
                             <div class="theme_two_box_img">
-                                <a href="tour-details.php"><img src="assets/img/tour/popular-3.png" alt="img"></a>
+                                <a href="tour-details"><img src="assets/img/tour/popular-3.png" alt="img"></a>
                                 <p><i class="fas fa-map-marker-alt"></i>Tanzania</p>
                             </div>
                             <div class="theme_two_box_content">
-                                <h4><a href="tour-details.php">7 Days Marangu Route</a></h4>
+                                <h4><a href="tour-details">7 Days Marangu Route</a></h4>
                                 <p><span class="review_rating">4.8/5 Excellent</span> <span
                                         class="review_count">(1214
                                         reviewes)</span></p>
@@ -196,11 +196,11 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                         <div class="theme_common_box_two img_hover">
                             <div class="theme_two_box_img">
-                                <a href="tour-details.php"><img src="assets/img/tour/popular-4.png" alt="img"></a>
+                                <a href="tour-details"><img src="assets/img/tour/popular-4.png" alt="img"></a>
                                 <p><i class="fas fa-map-marker-alt"></i>Tanzaniap>
                             </div>
                             <div class="theme_two_box_content">
-                                <h4><a href="tour-details.html">6 Days Mt. Meru Route </a></h4>
+                                <h4><a href="tour-details">6 Days Mt. Meru Route </a></h4>
                                 <p><span class="review_rating"></span> <span
                                         class="review_count"></span></p>
                                 <h3><span></span></h3>

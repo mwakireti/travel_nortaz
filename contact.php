@@ -89,7 +89,7 @@
                     <div class="common_bannner_text">
                         <h2>Contact</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="home">Home</a></li>
                             <li><span><i class="fas fa-circle"></i></span>Contact</li>
                         </ul>
                     </div>
@@ -175,7 +175,7 @@
                                     <h3>Mon-Sun : 24 hours</h3>
                                 </div>
                                 <div class="contact_map_area">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127449.70342141512!2d36.59481074513824!3d-3.398140243905732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18371c88f2387383%3A0xbc1907f7ec497152!2sArusha%2C%20Tanzania!5e0!3m2!1sen!2ske!4v1733854338051!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframehttps:>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127449.70342141512!2d36.59481074513824!3d-3.398140243905732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18371c88f2387383%3A0xbc1907f7ec497152!2sArusha%2C%20Tanzania!5e0!3m2!1sen!2ske!4v1733854338051!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                             </div>
                         </div>
