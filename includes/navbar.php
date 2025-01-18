@@ -151,7 +151,7 @@
                     </a>
                   </div>
                   <div class="option-item">
-                    <a href="#" class="btn  btn_navber">Book Now</a>
+                    <a href="contact" class="btn  btn_navber">Book Now</a>
                   </div>
                 </div>
               </div>
@@ -174,7 +174,7 @@
                     <a href="#" class="search-box"><i class="fas fa-search"></i></a>
                   </div>
                   <div class="option-item">
-                    <a href="contact.php" class="btn  btn_navber">Get free quote</a>
+                    <a href="contact" class="btn  btn_navber">Get free quote</a>
                   </div>
                 </div>
               </div>

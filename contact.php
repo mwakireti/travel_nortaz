@@ -29,6 +29,11 @@
     <link rel="stylesheet" href="assets/css/responsive.css" />
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
+
+    <!--sweetalart--->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
 </head>
 
 <body>
@@ -119,39 +124,39 @@
                                 There are many variations of passages of Lorem Ipsum available but the majority.</p>
                         </div>
                         <div class="contact_form_two">
-                            <form action="https://andit.co/projects/html/and-tour/demo/!#" id="contact_form_content">
+                            <form id="messageForm">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group">
-                                            <input type="text" class="form-control bg_input" placeholder="First name*">
+                                            <input type="text" name="fname" class="form-control bg_input" placeholder="First name*" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group">
-                                            <input type="text" class="form-control bg_input" placeholder="Last name*">
+                                            <input type="text" name="lname" class="form-control bg_input" placeholder="Last name*" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group">
-                                            <input type="text" class="form-control bg_input"
-                                                placeholder="Email address (Optional)">
+                                            <input type="email" name="email" class="form-control bg_input"
+                                                placeholder="Email address" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group">
-                                            <input type="text" class="form-control bg_input"
-                                                placeholder="Mobile number*">
+                                            <input type="tel" name="phone" class="form-control bg_input"
+                                                placeholder="Mobile number*" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="form-group">
-                                            <textarea class="form-control bg_input" rows="5"
-                                                placeholder="Message"></textarea>
+                                            <textarea class="form-control bg_input" name="message" rows="5"
+                                                placeholder="Message" required></textarea>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="form-group">
-                                            <button type="button" class="btn btn_theme btn_md">Send message</button>
+                                            <button type="submit" class="btn btn_theme btn_md">Send message</button>
                                         </div>
                                     </div>
                                 </div>
@@ -219,6 +224,8 @@
     ?>
     <!-- Footer -->
 
+    <!--custom scripts-->
+    <script src="js/leaveusamessage.js"></script>
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap js -->
     <script src="assets/js/bootstrap.bundle.js"></script>
@@ -231,8 +238,6 @@
     <!-- Custom js -->
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/add-form.js"></script>
-
-
 </body>
 
 </html>
