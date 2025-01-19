@@ -209,9 +209,9 @@
                 <div class="col-lg-5">
                     <div class="cat_form">
                         <form id="cta_form_wrappper">
-                            <div class="input-group"><input type="text" class="form-control"
+                            <div class="input-group"><input type="email" class="form-control"
                                     placeholder="Enter your mail address"><button class="btn btn_theme btn_md"
-                                    type="button">Subscribe</button></div>
+                                    type="submit">Subscribe</button></div>
                         </form>
                     </div>
                 </div>
@@ -224,8 +224,8 @@
     include "includes/footer.php"
     ?>
     <!-- Footer  -->
-
-
+    <!--custom script---->
+    <script src="js/subscribe.js"></script>
     <script src="assets/js/jquery.min.js"></script>
     <!-- Bootstrap js -->
     <script src="assets/js/bootstrap.bundle.js"></script>
