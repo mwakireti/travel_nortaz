@@ -12,13 +12,9 @@ $dotenv->load();
 header('Content-Type: application/json');
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-  $fname = htmlspecialchars($_POST['fname']);
-  $lname = htmlspecialchars($_POST['lname']);
-  $phone = htmlspecialchars($_POST['phone']);
   $email = htmlspecialchars($_POST['email']);
-  $message = htmlspecialchars($_POST['message']);
 
-  if (empty($fname) || empty($lname) || empty($phone) || empty($email) || empty($message)) {
+  if (empty($email)) {
     echo json_encode([
       "success" => false,
       "message" => "All fields are required."
@@ -57,13 +53,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Content
     $mail->isHTML(true);
-    $mail->Subject = 'Contact Us Form Submission';
+    $mail->Subject = 'Subscribe to our news Later form submission';
     $mail->Body = "
-            <h3>Contact Us Form Submission</h3>
-            <p><strong>Name:</strong> $fname $lname</p>
-            <p><strong>Phone:</strong> $phone</p>
-            <p><strong>Email:</strong> $email</p>
-            <p><strong>Comment:</strong> $message</p>
+            <h3>Subscibe to our news later</h3>
+            <p><strong>Email:</strong> $email</p>  
         ";
 
     $mail->send();
