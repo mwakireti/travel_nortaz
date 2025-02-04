@@ -110,8 +110,9 @@
                     <div class="tour_details_leftside_wrapper">
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">
-                                <h2>Explore the evergreen forest</h2>
-                                <h5><i class="fas fa-map-marker-alt"></i> Amazon evergreen forest, Amazon.</h5>
+                                <h2>Explore the wild safari.</h2>
+                                <h5><i class="fas fa-map-marker-alt"></i> 7 DAYS - `PERFECT COMBO ́
+                                </h5>
                             </div>
                             <div class="tour_details_top_heading_right">
                                 <h4>Excellent</h4>
@@ -126,7 +127,7 @@
                                 </div>
                                 <div class="tour_details_top_bottom_text">
                                     <h5>Duration</h5>
-                                    <p>10 days</p>
+                                    <p>7 days</p>
                                 </div>
                             </div>
                             <div class="toru_details_top_bottom_item">
@@ -144,7 +145,7 @@
                                 </div>
                                 <div class="tour_details_top_bottom_text">
                                     <h5>Group size</h5>
-                                    <p>50 people</p>
+                                    <p> 5-50 people</p>
                                 </div>
                             </div>
                             <div class="toru_details_top_bottom_item">
@@ -153,7 +154,7 @@
                                 </div>
                                 <div class="tour_details_top_bottom_text">
                                     <h5>Location</h5>
-                                    <p>Amazon rain forest</p>
+                                    <p>Serengeti National Park</p>
                                 </div>
                             </div>
                         </div>
@@ -206,18 +207,20 @@
                             </div>
                         </div>
                         <div class="tour_details_boxed">
-                            <h3 class="heading_theme">Overview</h3>
+                            <h3 class="heading_theme">Trip Info</h3>
                             <div class="tour_details_boxed_inner">
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-                                    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero
-                                    eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-                                    takimata sanctus est.
+                                <p>The main gates towards a tremendous experience and the remarkable lifetime memory brought to you by the perfect combo package,
+                                    starts by hitting the road from Arusha to an amazing destinations of Tarangire well known for high density of Elephants and the icon of African savannah Baobab trees, 
+                                    next stop is Lake manyara  the home of tree-climbing lions and the Great Rift valley. Thereafter, heading to the Serengeti.The world's oldest Ecosystem and home of the annual great migration and finally to the World's largest inactive and intact volcanic caldera, Ngorongoro conservation area.
+
                                 </p>
                                 <p>
-                                    Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-                                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.
-                                </p>
-                                <ul>
+                                ACTIVITIES:
+                                Game drive and Village visit.One may also spot, Zebras, giraffe, elephant migration, dwarf mongoose, dik dik, lion, impala, snake, baboons, jackal, buffalo, hippo, blue monkey, waterbuck,
+                                flamingo, warthog, acacia woodlands, Serengeti savannah, wildebeest, impala, rhino, gazelles, cheetahs, spotted hyena, ostriches and unique bird species.
+
+                                WE OFFER:Our services are in three different levels of accomodations, Basic, Luxury and Premium.  </p>
+                                <!-- <ul>
                                     <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
                                     <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian culture
                                     </li>
@@ -227,7 +230,7 @@
                                     </li>
                                     <li><i class="fas fa-circle"></i>Comfortable and hygienic vehicle (SUV/Sedan) for
                                         sightseeing on all days as per the itinerary.</li>
-                                </ul>
+                                </ul> -->
                             </div>
                         </div>
                         <div class="tour_details_boxed">
@@ -243,19 +246,25 @@
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="true"
                                                     aria-controls="collapseOne">
-                                                    Stet clita kasd gubergren, no sea takimata sanctus est
+                                                    KILIMANJARO INT. AIRPORT TO ARUSHA
                                                 </button>
                                             </h2>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <div class="accordion_itinerary_list">
+                                                <p?>Karibu! Warmly welcomed by our driver/ guides holding a paper with your name on it, 
+                                                 will be our first step towards the vacation of your dreams. A drive will take approximately 1hr to reach the  hotel in Arusha.  
+                                                 After a long flight, we will humbly introduce you to the East Africa Capital of Tourism, Arusha. 
+                                                 It's in north eastern Tanzania, stands 1400 meters above sea level, keeping temperatures and relatively low humidity. 
+                                                 In this beautiful city you will also find the 9th highest mountain in Africa and Arusha National Park. 
+                                                 During clear days Mt. Killimanjaro can also be spotted from Arusha. It's also the starting point to Serengeti and Ngorongoro Crater games.</p>
+                                                 
+                                                    <!-- <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                There are many variations of passages of Lorem Ipsum
-                                                                available, but the majority have
-                                                                suffered alteration in some form
+                                                                Karibu! Warmly welcomed by our driver/ guides holding a paper with your name on it, will be our first step towards the vacation of your dreams. 
+                                                                A drive will take approximately 1hr to reach the  hotel in Arusha.
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -280,7 +289,7 @@
                                                                 reproduced below for those interested.
                                                             </li>
                                                         </ul>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -294,13 +303,22 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    Stet clita kasd gubergren, no sea takimata sanctus est
+                                                    ARUSHA TO TARANGIRE N/PARK.
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <div class="accordion_itinerary_list">
+                                                <p?>Today, After breakfast at the hotel, We grab our delicious picnic lunch and  drive to Tarangire National Park. 
+                                                    Here we will enjoy our Game drive at the Elephant's home ground while spotting other wild animals in their natural habitats. During dry seasons,
+                                                    the Tarangire river shrinks and draws multitudes of thirsty wildlife with the greatest concentration outside of the Serengeti.
+                                                    The evergreen swamps are the focus for 550 birds varieties. Tarangire is also a home to buffalo, zebra, wildebeest, lions, gazelle and the list is endless.
+                                                    Landscape full of acacia trees, resplendent baobab trees and the rolling savannah. After  the astonishing day in the wildlife, we are off to the campsite for the pleasant evening meal and well deserve rest.
+                                                 
+                                                  Accommodation - campsite/ Lodges or VIP lodges
+                                                  Distance - 3hrs drive from  Arusha to Tarangire
+                                                  Activities- Game drives, Meals-Breakfast, Lunch Box and Dinner.</p>
+                                                    <!-- <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -320,7 +338,7 @@
                                                                 reproduced below for those interested.
                                                             </li>
                                                         </ul>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -334,35 +352,34 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    Stet clita kasd gubergren, no sea takimata sanctus est
+                                                    TARANGIRE TO LAKE MANYARA N/PARK.
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
+                                                <p?>We begin our day early, After breakfast we bring our picnic lunch box and drive to Manyara National Park for a Game drive,
+                                                    After a lovely day full of wildlife experiences, in the evening we will drive to a small town of Karatu for overnight.
+                                                    Lake Manyara ́s acacia woodland is home to its legendary elephants and tree-climbing lions.
+                                                    An expanse of lush grounded water forest of ancient mahogany trees are contrasted by grassy floodplain with views across the alkaline lake to the volcanic peaks of the Maasai steppe.
+                                                    By the end of the day you could easily spot elephants, buffalo, lion, giraffe, flamingos, more than 400 birds and many other species.
+                                                    Later in the afternoon we headed back to the campsite for a good relaxation and delicious dinner.
                                                     <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Contrary to popular belief, Lorem Ipsum is not simply
-                                                                random
+                                                                Accommodation - campsite/ Lodges or VIP lodges.
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Many desktop publishing packages and web page editors
-                                                                now
-                                                                use
+                                                                Distance - 2hrs drive from Tarangire to Manyara and 1.5hrs drive to Kaaratu.
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Lorem Ipsum is that it has a more-or-less normal
-                                                                distribution of letters, to using 'Content here
-                                                            </li>
+                                                                Activities - Game drives
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                The standard chunk of Lorem Ipsum used since the 1500s
-                                                                is
-                                                                reproduced below for those interested.
+                                                                Meals - Breakfast, Lunch box and Dinner.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -441,7 +458,7 @@
                             </div>
                         </div>
                         <div class="tour_details_boxed">
-                            <h3 class="heading_theme">Tours location</h3>
+                            <h3 class="heading_theme">Safari location</h3>
                             <div class="map_area">
                                 <iframe
                                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.6962663570607!2d89.56355961427838!3d22.813715829827952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff901efac79b59%3A0x5be01a1bc0dc7eba!2sAnd+IT!5e0!3m2!1sen!2sbd!4v1557901943656!5m2!1sen!2sbd"></iframe>
@@ -449,7 +466,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <!-- <div class="col-lg-4">
                     <div class="tour_details_right_sidebar_wrapper">
                         <div class="tour_detail_right_sidebar">
                             <div class="tour_details_right_boxed">
@@ -604,7 +621,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
