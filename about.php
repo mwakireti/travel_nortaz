@@ -107,13 +107,13 @@
                 <div class="col-lg-6">
                     <div class="about_us_left">
                         <h5>About us</h5>
-                        <h2>We Are The World Best Travel Agency Company Since 2000</h2>
-                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-                            no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-                            dolor sit amet, consetetur sadipscing elitr </p>
-                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-                            no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
-                            dolor sit amet, consetetur sadipscing elitr </p>
+                        <h2> Locally Owned, Globally Inspired</h2>
+                        <p>Welcome to NORTAZ SAFARI, where authenticity meets adventure in the heart of Tanzania!
+                        Our mission is to provide you with unique holiday experiences that showcase the rich culture and breathtaking landscapes of this stunning country.
+                        </p>
+                        <p>At NORTAZ SAFARI , we are proud to be a locally-owned tourism company. 
+                        Our team consists of knowledgeable locals who have a deep passion for sharing the hidden gems of Tanzania with visitors.
+                        With international exposure and extensive experience in the travel industry, we understand what travelers seek: authentic experiences that leave lasting memories. </p>
                         <a href="tour-search.html" class="btn btn_theme btn_md">Find tours</a>
                     </div>
                 </div>
@@ -159,33 +159,36 @@
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="about_service_boxed">
                         <img src="assets/img/icon/world.png" alt="img">
-                        <h5><a href="#!">Best services</a></h5>
-                        <p>Phaseus site amet tristique ligua donec iaculis leo sus cipit. Consec tetur adipiscing elit.
-                            Incididunt ut dolore.</p>
+                        <h5><a href="#!">Sustainable Tourism</a></h5>
+                        <p>We believe in responsible travel that benefits both our guests and the communities we work with.
+                            Our activities are designed to promote sustainable tourism, ensuring that your adventure contributes to the preservation of Tanzania’s
+                            beautiful environment and supports local economies. Join us in exploring this remarkable country while making a positive impact.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="about_service_boxed">
                         <img src="assets/img/icon/walte.png" alt="img">
-                        <h5><a href="#!">Trusted payment</a></h5>
-                        <p>Phaseus site amet tristique ligua donec iaculis leo sus cipit. Consec tetur adipiscing elit.
-                            Incididunt ut dolore.</p>
+                        <h5><a href="#!">Trusted</a></h5>
+                        <p>We know that travel can be an investment, and we are committed to providing exceptional value for your money. 
+                        Our carefully curated activities and packages ensure that you experience the best of Tanzania without compromising on quality or service.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="about_service_boxed">
                         <img src="assets/img/icon/star.png" alt="img">
-                        <h5><a href="#!">Top facility</a></h5>
-                        <p>Phaseus site amet tristique ligua donec iaculis leo sus cipit. Consec tetur adipiscing elit.
-                            Incididunt ut dolore.</p>
+                        <h5><a href="#!">Unique Activities</a></h5>
+                        <p>From thrilling safaris across the Serengeti to relaxing beach getaways on Zanzibar, we offer a range of unique activities tailored to suit every traveler’s desire. 
+                            Our itineraries are designed to provide unforgettable experiences that showcase the diverse beauty and culture of Tanzania.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-12">
                     <div class="about_service_boxed">
                         <img src="assets/img/icon/persentis.png" alt="img">
                         <h5><a href="#!">Awesome deals</a></h5>
-                        <p>Phaseus site amet tristique ligua donec iaculis leo sus cipit. Consec tetur adipiscing elit.
-                            Incididunt ut dolore.</p>
+                        <p>We invite you to explore Tanzania with us. Our dedicated team is here to guide you through every step of your journey,
+                            ensuring you have an incredible holiday filled with authentic activities and unforgettable moments. Let’s make your dream holiday a reality!
+                        .</p>
                     </div>
                 </div>
             </div>
