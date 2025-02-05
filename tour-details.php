@@ -90,11 +90,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="common_bannner_text">
-                        <h2>Explore the evergreen forest</h2>
+                        <h2>7 DAYS - PERFECT COMBO</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Tours</a></li>
-                            <li><span><i class="fas fa-circle"></i></span> Tours Details</li>
+                            <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Safari</a></li>
+                            <li><span><i class="fas fa-circle"></i></span> 7 days Safari Tour</li>
                         </ul>
                     </div>
                 </div>
@@ -161,18 +161,18 @@
                         <div class="tour_details_img_wrapper">
                             <div class="slider slider-for">
                                 <div>
-                                    <img src="assets/img/tour/big-img.png" alt="img">
+                                    <img src="assets/img/common/F lion1.png" alt="img">
+                                </div>
+                                <!-- <div>
+                                    <img src="assets/img/common/NTCAR.png" alt="img">
                                 </div>
                                 <div>
-                                    <img src="assets/img/tour/big-img2.png" alt="img">
+                                    <img src="assets/img/holiday-img/Kade.png" alt="img">
                                 </div>
                                 <div>
-                                    <img src="assets/img/tour/big-img3.png" alt="img">
-                                </div>
-                                <div>
-                                    <img src="assets/img/tour/big-img4.png" alt="img">
-                                </div>
-                                <div>
+                                    <img src="assets/img/holiday-img/zebra.png" alt="img">
+                                </div> -->
+                                <!-- <div>
                                     <img src="assets/img/tour/big-img5.png" alt="img">
                                 </div>
                                 <div>
@@ -180,16 +180,16 @@
                                 </div>
                                 <div>
                                     <img src="assets/img/tour/big-img7.png" alt="img">
-                                </div>
+                                </div> -->
                             </div>
                             <div class="slider slider-nav">
                                 <div>
-                                    <img src="assets/img/tour/small1-img.png" alt="img">
+                                    <img src="assets/img/common/NTCAR.png" alt="img">
                                 </div>
-                                <div>
-                                    <img src="assets/img/tour/small2-img.png" alt="img">
-                                </div>
-                                <div>
+                                <!-- <div>
+                                    <img src="assets/img/holiday-img/Kade.png" alt="img">
+                                </div> -->
+                                <!-- <div>
                                     <img src="assets/img/tour/small3-img.png" alt="img">
                                 </div>
                                 <div>
@@ -199,11 +199,11 @@
                                     <img src="assets/img/tour/small5-img.png" alt="img">
                                 </div>
                                 <div>
-                                    <img src="assets/img/tour/small6-img.png" alt="img">
-                                </div>
+                                    <img src="assets/img/tour/small6-img.png" alt="img"> -->
+                                <!-- </div>
                                 <div>
-                                    <img src="assets/img/tour/small7-img.png" alt="img">
-                                </div>
+                                    <img src="assets/img/holiday-img/zebra.png" alt="img">
+                                </div> -->
                             </div>
                         </div>
                         <div class="tour_details_boxed">
@@ -396,36 +396,38 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    Stet clita kasd gubergren, no sea takimata sanctus est
+                                                    LAKE MANYARA N/ PARK (KARATU)  TO SERENGETI N/ PARK
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <div class="accordion_itinerary_list">
+                                                  <!-- < class="accordion_itinerary_list"> -->
+                                                    <p?>We leave Karatu after breakfast, grab our picnic lunch box and hitting the road towards the well known park and UNESCO World heritage site, The Serengeti. Game drive,
+                                                        spotting animals and exploring miraculous nature that the Serengeti has to offer are the main activities, Our qualified guides will make sure you are supplied with all the history and necessary infos about the park.
+                                                     After a delicious lunch, it's the chance to seek some more great wildlife-spotting at the home of the great migration,
+                                                     The long plains are home to elephants, leopards, buffalo, cheetah, lion, hippo, crocodile and many other species, 
+                                                     The Serengeti offers the most scintillating game viewing in Africa all year around. Its Ecosystem, the oldest on earth and unchanged for millenia. 
+                                                     The spectacle predators versus prey-dominates -with a large population of all three African jackal species and spotted hyena.
+                                                     After a whole day exploring the greatness of nature, surround yourself with the smell of Africa and make yourself neighbor to the wildlife.
+                                                     It's time to wrap-up the day by watching the sunset over the savannah, behind the acacia woodland that will paint the sky with brilliant colours.<p>
+                                                     Thereafter we will drive back to our campsite for dinner and pep talk about our day highlights.
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                There are many variations of passages of Lorem Ipsum
-                                                                available, but the majority have
-                                                                suffered alteration in some form
+                                                                Meals- Breakfast, Lunch box and Dinner.
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Contrary to popular belief, Lorem Ipsum is not simply
-                                                                random
+                                                                Accommodation - campsite/ Lodges or VIP lodges
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Many desktop publishing packages and web page editors
-                                                                now
-                                                                use
+                                                                Distance - 4.5hrs drive from Manyara to Serengeti
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                The standard chunk of Lorem Ipsum used since the 1500s
-                                                                is
-                                                                reproduced below for those interested.
+                                                                Activities- Game drives
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -433,27 +435,172 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
+                                   <div class="accordion_flex_area">
+                                        <div class="accordion_left_side">
+                                            <h5>Day 5</h5>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingFour">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                                                    aria-expanded="false" aria-controls="collapseFive">
+                                                    SERENGETI NATIONAL PARK.
+                                                </button>
+                                            </h2>
+                                            <div id="collapseFive" class="accordion-collapse collapse"
+                                                aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                    <!-- < class="accordion_itinerary_list"> -->
+                                                    <p?>It's nothing to compare with the feelings of being awakened by the gently melodic sounds of nature and the beautiful background songs from more than 500 bird species that live in the Serengeti. 
+                                                        After breakfast we collect our picnic lunch box and start the day by a game drive around the Serengeti, we set our focus on spotting the thrilling predators in their intimidating hunting face. 
+                                                        After our picnic lunch, we set off again to search for other animals and explore wildlife at large, trying to spot the so-called unseen world of nature ( both unusual animals, big and small  and miraculous nature divisions).
+                                                        Our expert guides will simplify the work. It is almost impossible to spend too much time in Serengeti and more than 1.5 million herbivores + thousands of predators - there is always something new and promising to see. 
+                                                        Hence drive back to our campsite for dinner, rest and  regain for the promising day.
+                                                        <ul>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Accommodation - campsite/ Lodges or VIP lodges.
+                                                            </li>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Activities - Game drives.
+                                                            </li>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Meals - Breakfast, Lunch box and Dinner.
+                                                            </li>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Activities- Game drives
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>         
+                        <div class="accordion_flex_area">
+                                        <div class="accordion_left_side">
+                                            <h5>Day 6</h5>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingSix">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                                                    aria-expanded="false" aria-controls="collapseSix">
+                                                    SERENGETI TO NGORONGORO CRATER.
+                                                </button>
+                                            </h2>
+                                            <div id="collapseSix" class="accordion-collapse collapse"
+                                                aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                  <!-- < class="accordion_itinerary_list"> -->
+                                                    <p?>The marvelous sounds of Africa will wake you up from the pleasant sleep. After breakfast and collecting our packed lunch the adventure continues. 
+                                                        Today is a trip to the well known Ngorongoro Crater, One of Africa's great Natural wonders. Population of more than 25,000 large mammals, the landscape full of acacia trees, swamps, meadows and astonishing caldera made this place to be far ahead from other parks.
+                                                        Elephants, lions, Hyna, baboons, leopards, gazelle, African buffalo, giraffes, impala and even rare black rhinoceros find refuge here.
+                                                        Maasai is the tribe with the greatest privilege to share this amazing place with numerous kinds of animals, keep and feed their animals in one of Africa's greatest natural wonders and a World Heritage Site by UNESCO since 1978. All this together make the Ngorongoro Crater be of its Uniqueness.    Late afternoon we drove back to the campsite for a well deserved rest and delicious dinner from our chief. 
+                                                        <ul>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Meals- Breakfast, Lunch box and Dinner.
+                                                            </li>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Accommodation - campsite/ Lodges or VIP lodges
+                                                            </li>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Distance - 3.5hrs from Serengeti to Ngorongoro Crater
+                                                            </li>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Activities- Game drives
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <!-- </div> -->
+                                        <div class="accordion_flex_area">
+                                        <div class="accordion_left_side">
+                                            <h5>Day 7</h5>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingSeven">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseSeven"
+                                                    aria-expanded="false" aria-controls="collapseSeven">
+                                                    LAKE MANYARA N/ PARK (KARATU)  TO SERENGETI N/ PARK
+                                                </button>
+                                            </h2>
+                                            <div id="collapseSeven" class="accordion-collapse collapse"
+                                                aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                  <!-- < class="accordion_itinerary_list"> -->
+                                                    <p?>As it's Departure day, it does not mean it has less to offer.  It's still enough time to enjoy the real pageant before you set your mind home.
+                                                        After a picnic lunch, we descend  into Ngorongoro crater for Game drives, exploring the short-grass plains of the crater floor, extinct volcano embraces 100sq meters alive with Lions, Hyena, baboons, leopards, gazelle, African buffalo, Giraffe and even rare black rhino. 
+                                                        Then we drive  you back to Arusha/ Airport.
+
+                                                        <ul>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Meals- Breakfast, Lunch box and Dinner.
+                                                            </li>
+                                                            <!-- <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Accommodation - campsite/ Lodges or VIP lodges
+                                                            </li> -->
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Distance -  5hrs from Ngorongoro to Airport. 3hrs from Ngorongoro to Arusha.
+                                                            </li>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Activities- Game drives
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Included/Excluded</h3>
                             <div class="tour_details_boxed_inner">
                                 <p>
-                                    Stet clitaStet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
-                                    sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-                                    eirmod.
+                                PRICE WILL INCLUDE:
                                 </p>
                                 <ul>
-                                    <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
-                                    <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian culture
+                                    <li><i class="fas fa-circle"></i>Guarantee Price and guarantee Departure.</li>
+                                    <li><i class="fas fa-circle"></i>Arrival and Departure transfer TO/FROM Arusha  / Kilimanjaro int. Airport.
                                     </li>
-                                    <li><i class="fas fa-circle"></i>Complimentary Camel safari, Bonfire, and Cultural
-                                        Dance at Camp</li>
-                                    <li><i class="fas fa-circle"></i>All toll tax, parking, fuel, and driver allowances
+                                    <li><i class="fas fa-circle"></i>Accommodation as indicated.</li>
+                                    <li><i class="fas fa-circle"></i>Activities as indicated.
                                     </li>
-                                    <li><i class="fas fa-circle"></i>Comfortable and hygienic vehicle (SUV/Sedan) for
-                                        sightseeing on all days as per the itinerary.</li>
+                                    <li><i class="fas fa-circle"></i>Meals as indicated.</li>
+                                    <li><i class="fas fa-circle"></i>All park fees and Government taxes.</li>
+                                    <li><i class="fas fa-circle"></i>Professional English-Speaking Driver-Guide.</li>
+                                    <li><i class="fas fa-circle"></i>Game drives in Land Cruiser with pop-up roof top with guarantee window seat.</li>
+                                    <li><i class="fas fa-circle"></i>Bottled water and other cold drinks in the cooler while on the safari.</li>
+                                    <li><i class="fas fa-circle"></i>Unlimited mileage on the Safari</li>
+                                    <li><i class="fas fa-circle"></i>Maximum of 6 passengers in the Safari vehicles.
+                                    </li>
+                                </ul>
+                                <p>
+                                PRICE WILL EXCLUDE:
+                                </p>
+                                <ul>
+                                    <li><i class="fas fa-circle"></i>International and Domestic flight.</li>
+                                    <li><i class="fas fa-circle"></i>Items of a personal nature such as Passport, Visa.
+                                    </li>
+                                    <li><i class="fas fa-circle"></i>Travel & Medical insurance.</li>
+                                    <li><i class="fas fa-circle"></i>Tipping.
+                                    </li>
+                                    <li><i class="fas fa-circle"></i>Any changes added/done by you</li>
+                                    <li><i class="fas fa-circle"></i>Post night accommodation in Arusha.</li>
+                                    <li><i class="fas fa-circle"></i>Laundry services.</li>
+                                    <li><i class="fas fa-circle"></i>Drinks at the Lodge/ Campsite.</li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -461,7 +608,7 @@
                             <h3 class="heading_theme">Safari location</h3>
                             <div class="map_area">
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.6962663570607!2d89.56355961427838!3d22.813715829827952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff901efac79b59%3A0x5be01a1bc0dc7eba!2sAnd+IT!5e0!3m2!1sen!2sbd!4v1557901943656!5m2!1sen!2sbd"></iframe>
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127449.70342141512!2d36.59481074513824!3d-3.398140243905732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18371c88f2387383%3A0xbc1907f7ec497152!2sArusha%2C%20Tanzania!5e0!3m2!1sen!2ske!4v1733854338051!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                     </div>
