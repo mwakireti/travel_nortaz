@@ -44,7 +44,7 @@
                     <a href="safari" class="nav-link">Safari <i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="tour-details.php" class="nav-link">7 Days- Perfect Combo</a>
+                        <a href="7day-perfect-combo-safari.php" class="nav-link">7 Days- Perfect Combo</a>
                       </li>
                       <li class="nav-item">
                         <a href="6Days-wildlife-safari.php" class="nav-link">6 Days-Wildlife DIscovery</a>
