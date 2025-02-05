@@ -275,12 +275,12 @@
                                                                 <i class="fas fa-circle"></i>
                                                                 Distance - 1hr from Kilimanjaro Int. Airport to Arusha
                                                             </li> -->
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Distance - 1hr from Kilimanjaro Int. Airport to Arusha
                                                             </li>
                                                         </ul>
-                                                    </div> 
+                                                    </div>  -->
                                                 </div>
                                             </div>
                                         </div>
@@ -449,7 +449,7 @@
                                                 </div>
                                             </div>
                                         </div>         
-                        <div class="accordion_flex_area">
+                                           <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 6</h5>
                                         </div>
@@ -490,7 +490,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        
                                     <!-- </div> -->
                                         <!-- <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
