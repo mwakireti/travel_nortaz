@@ -53,7 +53,7 @@
                         <a href="6days-restful-safari.php" class="nav-link">6 Days- Restfull</a>
                       </li>
                       <li class="nav-item">
-                        <a href="5days-lively-wildlife" class="nav-link">5 Days- Lively Days-Wildlife</a>
+                        <a href="5days-lively-wildlife" class="nav-link">5 Days Lively Wildlife</a>
                       </li>
                       <li class="nav-item">
                         <a href="#" class="nav-link">5 Days- The thrilling</a>
