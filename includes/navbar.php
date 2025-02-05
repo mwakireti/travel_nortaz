@@ -56,7 +56,7 @@
                         <a href="5days-lively-wildlife.php" class="nav-link">5 Days Lively Wildlife</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">5 Days- The thrilling</a>
+                        <a href="5days-the-thrilling-predator.php"class="nav-link">5 Days- The thrilling</a>
                       </li>
                     </ul>
                   </li>
