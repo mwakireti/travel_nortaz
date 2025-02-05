@@ -117,7 +117,7 @@
                                     <p><i class="fas fa-map-marker-alt"></i>Tanzania</p>
                                 </div>
                                 <div class="theme_two_box_content">
-                                    <h4><a href="tour-details">7 Days Perfect Combo</a></h4>
+                                    <h4><a href="7day-perfect-combo-safari.php">7 Days Perfect Combo</a></h4>
                                     <p><span class="review_rating">4.8/5 Excellent</span> <span
                                             class="review_count">(1214
                                             reviewes)</span></p>
@@ -136,7 +136,7 @@
 
                                 </div>
                                 <div class="theme_two_box_content">
-                                    <h4><a href="tour-details">6 Days Wildlife Discovery</a></h4>
+                                    <h4><a href="6Days-wildlife-safari.php">6 Days Wildlife Discovery</a></h4>
                                     <p><span class="review_rating">4.8/5 Excellent</span> <span
                                             class="review_count">(1214
                                             reviewes)</span></p>

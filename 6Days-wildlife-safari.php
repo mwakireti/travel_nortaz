@@ -538,8 +538,8 @@
                                                         </ul> -->
                                                     </div>
                                                 </div>
-                                            </div> -->
-                                        </div> -->
+                                            </div> 
+                                        </div> 
                                     </div>
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Included/Excluded</h3>
