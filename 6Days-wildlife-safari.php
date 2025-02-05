@@ -161,7 +161,7 @@
                         <div class="tour_details_img_wrapper">
                             <div class="slider slider-for">
                                 <div>
-                                    <img src="assets/img/common/F lion1.png" alt="img">
+                                    <img src="assets/img/common/Flion curbs.png" alt="img">
                                 </div>
                                 <!-- <div>
                                     <img src="assets/img/common/NTCAR.png" alt="img">
@@ -307,16 +307,16 @@
                                                     During dry seasons, the Tarangire river shrinks and draws multitudes of thirsty wildlife with the greatest concentration outside of the Serengeti.
                                                     The evergreen swamps are the focus for 550 bird varieties.Tarangire is also a home to buffalo, zebra, wildebeest, lions, gazelle and the list is endless.
                                                     Landscape full of acacia trees, resplendent baobab trees and the rolling savannah. After  the astonishing day in the wildlife, we are off to the campsite for the pleasant evening meal and well deserved rest.</p>
-                                                    <!-- <div class="accordion_itinerary_list">
+                                                    <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Distance - 3hrs drive from  Arusha to Tarangire
-                                                        </li> -->
+                                                          </li> 
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Activities- Game drives
-                                                            <!-- </li> -->
+                                                            </li> 
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Accommodation - campsite/ Lodges or VIP lodges
@@ -336,18 +336,18 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    TARANGIRE TO LAKE MANYARA N/PARK.
+                                                    TARANGIRE TO LAKE MANYARA N/PARK
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>We begin our day early, After breakfast we bring our picnic lunch box and drive to Manyara National Park for a Game drive,
-                                                    After a lovely day full of wildlife experiences, in the evening we will drive to a small town of Karatu for overnight.
+                                                <p?>We begin our day early. After breakfast we bring our picnic lunch box and drive to Manyara National Park for a Game drive.
+                                                    After a lovely day full of wildlife experiences, in the evening we will drive to a small town of Karatu for the night.
                                                     Lake Manyara ́s acacia woodland is home to its legendary elephants and tree-climbing lions.
-                                                    An expanse of lush grounded water forest of ancient mahogany trees are contrasted by grassy floodplain with views across the alkaline lake to the volcanic peaks of the Maasai steppe.
-                                                    By the end of the day you could easily spot elephants, buffalo, lion, giraffe, flamingos, more than 400 birds and many other species.
-                                                    Later in the afternoon we headed back to the campsite for a good relaxation and delicious dinner.
+                                                    An expanse of lush grounded water forest of ancient mahogany trees is contrasted by grassy floodplain with views across the alkaline lake to the volcanic peaks of the Maasai steppe.
+                                                    By the end of the day you could easily spot elephants, buffalo, lions, giraffes, flamingos, more than 400 kinds of birds and many other species. Later in the afternoon we headed back to the campsite for a good relaxation and delicious dinner.
+
                                                     <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
@@ -387,15 +387,11 @@
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>We leave Karatu after breakfast, grab our picnic lunch box and hitting the road towards the well known park and UNESCO World heritage site, The Serengeti. Game drive,
-                                                        spotting animals and exploring miraculous nature that the Serengeti has to offer are the main activities, Our qualified guides will make sure you are supplied with all the history and necessary infos about the park.
-                                                     After a delicious lunch, it's the chance to seek some more great wildlife-spotting at the home of the great migration,
-                                                     The long plains are home to elephants, leopards, buffalo, cheetah, lion, hippo, crocodile and many other species, 
-                                                     The Serengeti offers the most scintillating game viewing in Africa all year around. Its Ecosystem, the oldest on earth and unchanged for millenia. 
-                                                     The spectacle predators versus prey-dominates -with a large population of all three African jackal species and spotted hyena.
-                                                     After a whole day exploring the greatness of nature, surround yourself with the smell of Africa and make yourself neighbor to the wildlife.
-                                                     It's time to wrap-up the day by watching the sunset over the savannah, behind the acacia woodland that will paint the sky with brilliant colours.<p>
-                                                     Thereafter we will drive back to our campsite for dinner and pep talk about our day highlights.
+                                                    <p?>We leave Karatu after breakfast, grab our picnic lunch box and hit the road towards the well known park and UNESCO World heritage site, The Serengeti. Game drive, spotting animals and exploring miraculous nature that the Serengeti has to offer are the main activities. Our qualified guides will make sure you are supplied with all the history and necessary info about the park.
+                                                        After a delicious lunch, it's the chance to seek some more great wildlife-spotting at the home of the great migration, The long plains are home to elephants, leopards, buffalo, cheetah, lion, hippo, crocodile and many other species, The Serengeti offers the most scintillating game viewing in Africa all year around. Its Ecosystem, the oldest on earth and unchanged for millenia. The spectacle predators versus prey-dominates -with a large population of all three African jackal species and spotted hyena.
+                                                        After a whole day exploring the greatness of nature, surround yourself with the smell of Africa and make yourself neighbor to the wildlife.  It's time to wrap-up the day by watching the sunset over the savannah, behind the acacia woodland that will paint the sky with brilliant colours.
+                                                        Thereafter we will drive back to our campsite for dinner and pep talk about our day highlights.</p>
+
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -428,18 +424,16 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    SERENGETI NATIONAL PARK.
+                                                    SERENGETI TO NGORONGORO CRATER.
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>It's nothing to compare with the feelings of being awakened by the gently melodic sounds of nature and the beautiful background songs from more than 500 bird species that live in the Serengeti. 
-                                                        After breakfast we collect our picnic lunch box and start the day by a game drive around the Serengeti, we set our focus on spotting the thrilling predators in their intimidating hunting face. 
-                                                        After our picnic lunch, we set off again to search for other animals and explore wildlife at large, trying to spot the so-called unseen world of nature ( both unusual animals, big and small  and miraculous nature divisions).
-                                                        Our expert guides will simplify the work. It is almost impossible to spend too much time in Serengeti and more than 1.5 million herbivores + thousands of predators - there is always something new and promising to see. 
-                                                        Hence drive back to our campsite for dinner, rest and  regain for the promising day.
+                                                    <p?>The marvelous sounds of Africa will wake you up from the pleasant sleep, After breakfast and collect our packed lunch and the adventure continues. Today is a trip to the well known Ngorongoro Crater, One of Africa's great Natural wonders.
+                                                        Population of more than 25,000 large mammals, the landscape full of acacia trees, swamps, meadows and astonishing caldera made this place to be far ahead from other parks. Elephants, lions, Hyna, baboons, leopards, gazelle, African buffalo, giraffes, impala and even rare black rhinoceros find refuge here.
+                                                        Maasai is the tribe with the greatest privilege to share this amazing place with numerous kinds of animals, keep and feed their animals in one of Africa's greatest natural wonders and a World Heritage Site by UNESCO since 1978. All this together makes the Ngorongoro Crater be of its Uniqueness.Late afternoon we drove back to the campsite for a well deserved rest and delicious dinner from our chief. 
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -455,7 +449,7 @@
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Activities- Game drives
+                                                                Distance - 3.5hrs from Serengeti to Ngorongoro Crater
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -471,29 +465,28 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                                     aria-expanded="false" aria-controls="collapseSix">
-                                                    SERENGETI TO NGORONGORO CRATER.
+                                                    NGORONGORO CRATER TO AIRPORT/ ARUSHA.
                                                 </button>
                                             </h2>
                                             <div id="collapseSix" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>The marvelous sounds of Africa will wake you up from the pleasant sleep. After breakfast and collecting our packed lunch the adventure continues. 
-                                                        Today is a trip to the well known Ngorongoro Crater, One of Africa's great Natural wonders. Population of more than 25,000 large mammals, the landscape full of acacia trees, swamps, meadows and astonishing caldera made this place to be far ahead from other parks.
-                                                        Elephants, lions, Hyna, baboons, leopards, gazelle, African buffalo, giraffes, impala and even rare black rhinoceros find refuge here.
-                                                        Maasai is the tribe with the greatest privilege to share this amazing place with numerous kinds of animals, keep and feed their animals in one of Africa's greatest natural wonders and a World Heritage Site by UNESCO since 1978. All this together make the Ngorongoro Crater be of its Uniqueness.    Late afternoon we drove back to the campsite for a well deserved rest and delicious dinner from our chief. 
+                                                    <p?>As its Departure day, it does not mean it has less to offer.  It's still enough time to enjoy the real pageant before you set your mind home.
+                                                        After a picnic lunch, we descend  into Ngorongoro crater for Game drives, exploring the short-grass plains of the crater floor, extinct volcano embraces 100sq meters alive with Lions, Hyna, baboons, leopards, gazelle, African buffalo, Giraffe and  even rare black rhino.
+                                                        Then we drive  you back to Arusha/ Airport.
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals- Breakfast, Lunch box and Dinner.
                                                             </li>
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Accommodation - campsite/ Lodges or VIP lodges
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 3.5hrs from Serengeti to Ngorongoro Crater
+                                                                5hrs from Ngorongoro to Airport. 3hrs from Ngorongoro to Arusha.
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -505,7 +498,7 @@
                                             </div>
                                         </div>
                                     <!-- </div> -->
-                                        <div class="accordion_flex_area">
+                                        <!-- <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 7</h5>
                                         </div>
@@ -521,7 +514,7 @@
                                                 aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>As it's Departure day, it does not mean it has less to offer.  It's still enough time to enjoy the real pageant before you set your mind home.
+                                                    <!-- <p?>As it's Departure day, it does not mean it has less to offer.  It's still enough time to enjoy the real pageant before you set your mind home.
                                                         After a picnic lunch, we descend  into Ngorongoro crater for Game drives, exploring the short-grass plains of the crater floor, extinct volcano embraces 100sq meters alive with Lions, Hyena, baboons, leopards, gazelle, African buffalo, Giraffe and even rare black rhino. 
                                                         Then we drive  you back to Arusha/ Airport.
 
@@ -534,7 +527,7 @@
                                                                 <i class="fas fa-circle"></i>
                                                                 Accommodation - campsite/ Lodges or VIP lodges
                                                             </li> -->
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Distance -  5hrs from Ngorongoro to Airport. 3hrs from Ngorongoro to Arusha.
                                                             </li>
@@ -542,11 +535,11 @@
                                                                 <i class="fas fa-circle"></i>
                                                                 Activities- Game drives
                                                             </li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </div>
+                                            </div> -->
+                                        </div> -->
                                     </div>
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Included/Excluded</h3>
