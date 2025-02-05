@@ -90,11 +90,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="common_bannner_text">
-                        <h2>6 DAYS - RESTFUL.</h2>
+                        <h2>5 DAYS - LIVELY WILDLIFE.</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
                             <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Safari</a></li>
-                            <li><span><i class="fas fa-circle"></i></span> 6 DAYS - RESTFUL.</li>
+                            <li><span><i class="fas fa-circle"></i></span> 5 DAYS - LIVELY WILDLIFE.</li>
                         </ul>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">
                                 <h2>Explore the wild safari.</h2>
-                                <h5><i class="fas fa-map-marker-alt"></i> 6 DAYS - RESTFUL.
+                                <h5><i class="fas fa-map-marker-alt"></i> 5 DAYS - LIVELY WILDLIFE.
                                 </h5>
                             </div>
                             <div class="tour_details_top_heading_right">
