@@ -462,7 +462,7 @@
                                             <div id="collapseSix" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
+                                                  < class="accordion_itinerary_list"> -->
                                                     <!-- <p?>As it's Departure day, it does not mean it has less to offer.  It's still enough time to enjoy the real pageant before you set your mind home.
                                                         After a picnic lunch, we descend  into Ngorongoro crater for Game drives, exploring the short-grass plains of the crater floor, extinct volcano embraces 100sq meters alive with Lions, Hyna, baboons, leopards, gazelle, African buffalo, Giraffe and even rare black rhino.
                                                         Then we drive  you back to Arusha/ Airport.</p>
@@ -505,7 +505,7 @@
                                             <div id="collapseSeven" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
+                                                  < class="accordion_itinerary_list"> -->
                                                     <!-- <p?>As it's Departure day, it does not mean it has less to offer.  It's still enough time to enjoy the real pageant before you set your mind home.
                                                         After a picnic lunch, we descend  into Ngorongoro crater for Game drives, exploring the short-grass plains of the crater floor, extinct volcano embraces 100sq meters alive with Lions, Hyena, baboons, leopards, gazelle, African buffalo, Giraffe and even rare black rhino. 
                                                         Then we drive  you back to Arusha/ Airport.
@@ -515,7 +515,7 @@
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals- Breakfast, Lunch box and Dinner.
                                                             </li>
-                                                            <!-- <li>
+                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Accommodation - campsite/ Lodges or VIP lodges
                                                             </li> -->
