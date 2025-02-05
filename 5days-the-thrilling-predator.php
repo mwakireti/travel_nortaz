@@ -446,7 +446,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>         
+                                        </div>        
                                            <!-- <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 6</h5>
