@@ -50,7 +50,7 @@
                         <a href="6Days-wildlife-safari.php" class="nav-link">6 Days-Wildlife DIscovery</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">6 Days- Restfull</a>
+                        <a href="6days-restful-safari.php" class="nav-link">6 Days- Restfull</a>
                       </li>
                       <li class="nav-item">
                         <a href="#" class="nav-link">5 Days- Lively Days-Wildlife</a>
