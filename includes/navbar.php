@@ -47,7 +47,7 @@
                         <a href="tour-details.php" class="nav-link">7 Days- Perfect Combo</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">6 Days-Wildlife DIscovery</a>
+                        <a href="6days-wildlifeSafari.php" class="nav-link">6 Days-Wildlife DIscovery</a>
                       </li>
                       <li class="nav-item">
                         <a href="#" class="nav-link">6 Days- Restfull</a>

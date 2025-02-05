@@ -90,11 +90,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="common_bannner_text">
-                        <h2>7 DAYS - PERFECT COMBO</h2>
+                        <h2>6 DAYS - WILDLIFE DISCOVERY.</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
                             <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Safari</a></li>
-                            <li><span><i class="fas fa-circle"></i></span> 7 days Safari Tour</li>
+                            <li><span><i class="fas fa-circle"></i></span> 6 Days Safari Tour</li>
                         </ul>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">
                                 <h2>Explore the wild safari.</h2>
-                                <h5><i class="fas fa-map-marker-alt"></i> 7 DAYS - `PERFECT COMBO ́
+                                <h5><i class="fas fa-map-marker-alt"></i> 6 DAYS - WILDLIFE DISCOVERY.
                                 </h5>
                             </div>
                             <div class="tour_details_top_heading_right">
@@ -209,17 +209,14 @@
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Trip Info</h3>
                             <div class="tour_details_boxed_inner">
-                                <p>The main gates towards a tremendous experience and the remarkable lifetime memory brought to you by the perfect combo package,
-                                    starts by hitting the road from Arusha to an amazing destinations of Tarangire well known for high density of Elephants and the icon of African savannah Baobab trees, 
-                                    next stop is Lake manyara  the home of tree-climbing lions and the Great Rift valley. Thereafter, heading to the Serengeti.The world's oldest Ecosystem and home of the annual great migration and finally to the World's largest inactive and intact volcanic caldera, Ngorongoro conservation area.
-
+                                <p>Wildlife discovery is the 6 days safari that its acquaintance will forever sticks in your mind, the feelings of impel though the northern circuit its almost unexplainable.
+                                    This phenomenal journey of us will start from Arusha heading to the beautiful destinations of Tarangire, well-known by its pythons, leopard and tree-climbing lions, distance of 115km equivalent to 2hrs drive will introduce us to the expanse of lush groundwater  forest, Lake Manyara National Park, thereafter its the oldest and most popular National Park Serengeti, well-known by its annual migration of giant herds of grazers. Finally to Africa's great Natural wonder, the Ngorongoro Crater.
                                 </p>
                                 <p>
-                                ACTIVITIES:
-                                Game drive and Village visit.One may also spot, Zebras, giraffe, elephant migration, dwarf mongoose, dik dik, lion, impala, snake, baboons, jackal, buffalo, hippo, blue monkey, waterbuck,
-                                flamingo, warthog, acacia woodlands, Serengeti savannah, wildebeest, impala, rhino, gazelles, cheetahs, spotted hyena, ostriches and unique bird species.
-
-                                WE OFFER:Our services are in three different levels of accomodations, Basic, Luxury and Premium.  </p>
+                                ACTIVITIES:-Game drive and village tour. 
+                                One may also spot, Zebras, giraffe, elephant migration, dwarf mongoose, dik dik, lion, impala, snake, baboons, jackal, buffalo, hippo, blue monkey, waterbuck, flamingo, warthog, acacia woodlands, Serengeti savannah, wildebeest, impala, rhino, gazelles, cheetahs, spotted hyena, ostriches and unique bird species.
+                                WE OFFER:Our services are in three different levels of accommodations, Basic, Luxury and Premium.  
+  </p>
                                 <!-- <ul>
                                     <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
                                     <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian culture
@@ -252,12 +249,9 @@
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>Karibu! Warmly welcomed by our driver/ guides holding a paper with your name on it, 
-                                                 will be our first step towards the vacation of your dreams. A drive will take approximately 1hr to reach the  hotel in Arusha.  
-                                                 After a long flight, we will humbly introduce you to the East Africa Capital of Tourism, Arusha. 
-                                                 It's in north eastern Tanzania, stands 1400 meters above sea level, keeping temperatures and relatively low humidity. 
-                                                 In this beautiful city you will also find the 9th highest mountain in Africa and Arusha National Park. 
-                                                 During clear days Mt. Killimanjaro can also be spotted from Arusha. It's also the starting point to Serengeti and Ngorongoro Crater games.</p>
+                                                <p?>Karibu! Warmly welcomed by our driver/ guides holding a paper with you name on it, will be our first step towards the vacation of your dreams. A drive will take approximately 1hr to reach the  hotel in Arusha. 
+                                                    After a long flight, we will humbly introduce you to the East Africa Capital of Tourism, Arusha. It's in north eastern Tanzania, stands 1400 meters above sea level, keeping temperatures and relatively low humidity. In this beautiful city you will also find the 9th highest mountain in Africa and Arusha National Park. During clear days Mt. Killimanjaro can also be spotted from Arusha. It's also the starting point to Serengeti and Ngorongoro Crater games.
+                                                    Arusha is also a home to a famous tribe in Africa `Maasai ́, it's a busy agricultural, animal keeping, administrative, business and tourism center. We are pleased to welcome you to the Vacation Paradise..</p>
                                                  
                                                     <!-- <div class="accordion_itinerary_list">
                                                         <ul>
@@ -303,42 +297,32 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    ARUSHA TO TARANGIRE N/PARK.
+                                                    ARUSHA TO TARANGIRE N/PARK
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>Today, After breakfast at the hotel, We grab our delicious picnic lunch and  drive to Tarangire National Park. 
-                                                    Here we will enjoy our Game drive at the Elephant's home ground while spotting other wild animals in their natural habitats. During dry seasons,
-                                                    the Tarangire river shrinks and draws multitudes of thirsty wildlife with the greatest concentration outside of the Serengeti.
-                                                    The evergreen swamps are the focus for 550 birds varieties. Tarangire is also a home to buffalo, zebra, wildebeest, lions, gazelle and the list is endless.
-                                                    Landscape full of acacia trees, resplendent baobab trees and the rolling savannah. After  the astonishing day in the wildlife, we are off to the campsite for the pleasant evening meal and well deserve rest.
-                                                 
-                                                  Accommodation - campsite/ Lodges or VIP lodges
-                                                  Distance - 3hrs drive from  Arusha to Tarangire
-                                                  Activities- Game drives, Meals-Breakfast, Lunch Box and Dinner.</p>
+                                                <p?>Today, After breakfast at the hotel, We grab our delicious picnic lunch and  drive to Tarangire National Park. Here we will enjoy our Game drive at the Elephant's home ground while spotting other wild animals in their natural habitats.
+                                                    During dry seasons, the Tarangire river shrinks and draws multitudes of thirsty wildlife with the greatest concentration outside of the Serengeti.
+                                                    The evergreen swamps are the focus for 550 bird varieties.Tarangire is also a home to buffalo, zebra, wildebeest, lions, gazelle and the list is endless.
+                                                    Landscape full of acacia trees, resplendent baobab trees and the rolling savannah. After  the astonishing day in the wildlife, we are off to the campsite for the pleasant evening meal and well deserved rest.</p>
                                                     <!-- <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                There are many variations of passages of Lorem Ipsum
-                                                                available, but the majority have
-                                                                suffered alteration in some form
-                                                            </li>
+                                                                Distance - 3hrs drive from  Arusha to Tarangire
+                                                        </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Lorem Ipsum is that it has a more-or-less normal
-                                                                distribution of letters, to using 'Content here
-                                                            </li>
+                                                                Activities- Game drives
+                                                            <!-- </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                The standard chunk of Lorem Ipsum used since the 1500s
-                                                                is
-                                                                reproduced below for those interested.
+                                                                Accommodation - campsite/ Lodges or VIP lodges
                                                             </li>
                                                         </ul>
-                                                    </div> -->
+                                                    </div> 
                                                 </div>
                                             </div>
                                         </div>
