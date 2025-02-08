@@ -64,7 +64,7 @@
                     <a href="climbtrekk" class="nav-link">Climb & trekk<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="#" class="nav-link">10 Days Lemosho Route</a>
+                        <a href="10days-lemosho-route.php" class="nav-link">10 Days Lemosho Route</a>
                       </li>
                       <li class="nav-item">
                         <a href="#" class="nav-link">9 Days Machame Route</a>

@@ -118,7 +118,7 @@
                                 <p><i class="fas fa-map-marker-alt"></i>Tanzania</p>
                             </div>
                             <div class="theme_two_box_content">
-                                <h4><a href="tour-details">10 Days Lemosho Route</a></h4>
+                                <h4><a href="10days-lemosho-route.php">10 Days Lemosho Route</a></h4>
                                 <p><span class="review_rating">4.8/5 Excellent</span> <span
                                         class="review_count">(1214
                                         reviewes)</span></p>
