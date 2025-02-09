@@ -67,7 +67,7 @@
                         <a href="10days-lemosho-route.php" class="nav-link">10 Days Lemosho Route</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">9 Days Machame Route</a>
+                        <a href="9days-machame-route.php" class="nav-link">9 Days Machame Route</a>
                       </li>
                       <li class="nav-item">
                         <a href="#" class="nav-link">8 Days Rongai Route</a>

@@ -90,11 +90,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="common_bannner_text">
-                        <h2>10 Days lemosho route</h2>
+                        <h2>9 Days machame route route</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
                             <li><span><i class="fas fa-circle"></i></span><a href="climbtrekk">Climb & Trekk.</a></li>
-                            <li><span><i class="fas fa-circle"></i></span> 10 Days Trekk route</li>
+                            <li><span><i class="fas fa-circle"></i></span> 9 Days Trekk route</li>
                         </ul>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">
                                 <h2>Explore our sceneries.</h2>
-                                <h5><i class="fas fa-map-marker-alt"></i> 10 days Lemosho Route.
+                                <h5><i class="fas fa-map-marker-alt"></i> 9 Days machame route
                                 </h5>
                             </div>
                             <div class="tour_details_top_heading_right">
@@ -154,7 +154,7 @@
                                 </div>
                                 <div class="tour_details_top_bottom_text">
                                     <h5>Location</h5>
-                                    <p>Tanzania National Park.</p>
+                                    <p>Machame </p>
                                 </div>
                             </div>
                         </div>
@@ -209,9 +209,8 @@
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Trip Info</h3>
                             <div class="tour_details_boxed_inner">
-                                <p>This is without a doubt, the longest and the little used route, its unspoiled and most beautiful way up to the Shira plateau.
-                                    The landscape is varied, with possible animal sightings on the first day hike. This is one of the few routes where an armed ranger will accompany our group, since there are animals in the forest around Lemosho Glades.
-                                    Our private vehicle will take you TO and pick you FROM the starting point of the trek. Accommodation under this route is Basic, whereby guests will sleep in tented camps.</p>
+                                <p>This is the second most popular route and considered as the most beautiful route up to the legendary Mt. Kilimanjaro. With a gradual ascent through the forest you emerge to see wide views of moorlands on Shira Plateau, Kibo and Western Breach.With a total trip time of Nine Days will ensure us more acclimatization time and better chance to reach the peak point in Africa.
+                                    Our private vehicle will take you TO and pick you FROM the starting point of the trek.Accommodation under this route is Basic, whereby guests will sleep in tented camps.</p>
                                 <!-- <ul>
                                     <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
                                     <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian culture
@@ -290,20 +289,19 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    LONDOROSI TO MTI MKUBWA CAMPSITE.
+                                                    ARUSHA TO MACHAME GATE TO MACHAME CAMP.
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>After breakfast at 7:00am, We drive to Londorosi Gate for a few minutes of registrations and other formalities.
-                                                    At 12:00 We will take our picnic lunch then a short drive to our trekking starting point.
-                                                    The walk of 3.5 - 4 hrs to the distance of 7km is expected to take us to our first camp Mti mkubwa Campsite that stands 9200tf high, We will camp here for dinner and overnight. </p>
+                                                <p?>After breakfast, We drive from Arusha to Machame Gate (About 45min). After the registration process  we start our trek alongside a clear trail through plantation and natural forest, then follow a narrow forest path to the Machame Camp that stands 9000 ft high.
+                                                    We will cover a distance of 11km that takes around 4.5 - 5hrs walking time,We expect to reach Machame Campsite in the late afternoon, dinner will be served here  followed by a well deserved rest before overnight.</p>
                                                     <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation - Mti Mkubwa Campsite 
+                                                                Accommodation - Machame Camp
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -311,7 +309,7 @@
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 4hrs from Londorosi Gate to Mti Mkubwa Campsite.
+                                                                Distance - 5hrs from Machame Gate to Machame Camp.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -328,23 +326,23 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    MTI MKUBWA CAMPSITE TO SHIRA I CAMP.
+                                                    MACHAME CAMP TO SHIRA CAVE.
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>After an early breakfast we leave for Shira plateau that stands 11,550ft high, with the same distance as the first day but today we will be ascending from 2600 to 3500 metres under the waking time of 6-7hrs.
-                                                    We will eventually leave the forest environment behind as soon as we approach the moorlands to put ourselves in sight of the Shiraa Plateau and Kibo.
+                                                <p?>As usual, we take an early breakfast around 7.00am and we aim to leave the camp at 8.30am. We ascend through the forest and alongside a ridge passing through heather and open moorlands. 5km is a distance to be covered today with a walking time of 4 - 5 hrs through dusty, narrow and steep.
+                                                    14.00 is expected to be arrival time to Shira Cave, at the camp we will have enough time to enjoy a beautiful sight of Shira Cathedral, Klute peak and Mt. Meru before we call it a day while relishing our delicious dinner.</p>
                                                     <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation - Shira I Camp
+                                                                Accommodation - Shira 2 Camp
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 7hrs from Mti Mkubwa to Shira I Camp.
+                                                                Distance - 4 - 5hrs from Machame Camp to Shira Camp 
                                                             </li>
                                                             <!-- <li>
                                                                 <i class="fas fa-circle"></i>
@@ -368,15 +366,15 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    SHIRA I CAMP TO SHIRA II CAMP.
+                                                    SHIRA CAVE TO BARRANCO CAMP.
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>Today we continue to hike across the high desert to Shira II Camp that stands 12,220 ft high. It's a steady, uphill climb with a distance of 7km,an expectation of 3-4hrs walking time.
-                                                        We expect to be at Shira II Camp around 13.00  whereby we will be served lunch followed by well deserved rest before our last meal and overnight.</p>
+                                                    <p?>After breakfast, we will ascend to Lava Tower that stands 15,180 ft high. The overall distance of around 10 km is to be covered with an approximate 6 - 7 hrs walking time.
+                                                        Our picnic Lunch will be taken at around 13.00. Then after, we take our trek to another level passing the Lava Tower as our  highest point of the day followed by descending down to Barranco Camp for a well rested while enjoying the beautiful nature around us, Dinner is to be served around 19.00</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -384,11 +382,11 @@
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation - Shira II Camp
+                                                                Accommodation - Barranco Camp
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 4hrs from Shira I to Shira II Camp.
+                                                                Distance - 7 hrs from Shira Camp to Barranco Camp.
                                                             </li>
                                                             <!-- <li>
                                                                 <i class="fas fa-circle"></i>
@@ -409,19 +407,19 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    SHIRA II TO BARRANCO CAMP.
+                                                    BARRANCO CAMP TO KARANGA CAMP.
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>Today we continue to hike across the high desert to Shira II Camp that stands 12,220 ft high. It's a steady, uphill climb with a distance of 7km, an expectation of 3-4hrs walking time.
-                                                        We expect to be at Shira II Camp around 13.00  whereby we will be served lunch followed by well deserved rest before our last meal and overnight.
+                                                    <p?>We have breakfast around 7.30am, a walking time of 3.5-4 hrs is expected to cover the distance of 4km. We will depart from Barranco Camp at 08.30am and arrive at Karanga Camp around 13.00 where our delicious dinner will be served,
+                                                        then you will  have a  pleasant rest while examining your highlight of the day before dinner and a calm night of sleep.</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation -  Shira II Camp
+                                                                Accommodation -  Karanga Camp
                                                             </li>
                                                             <!-- <li>
                                                                 <i class="fas fa-circle"></i>
@@ -433,7 +431,7 @@
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 4hrs from Shira I to Shira II Camp.
+                                                                Distance - 4hrs from Barranco Camp to Karanga Camp.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -490,57 +488,15 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSeven"
                                                     aria-expanded="false" aria-controls="collapseSeven">
-                                                    KARANGA CAMP TO BARAFU CAMP.
+                                                    BARAFU CAMP TO UHURU SUMMIT TO MWEKA CAMP.
                                                 </button>
                                             </h2>
                                             <div id="collapseSeven" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>Today it's also a  short day. We will have our breakfast at 7.30am and start our hike around 8.30am. Ascending about 500 metres at a distance of 5km with the walking time between 3.5-4hrs.
-                                                        We expect to be at Barafu Camp at 13.00 where our hot lunch will be served. Today's dinner will be served a bit earlier as it is a summit day ahead of us, So it's important to relax enough and make ourselves ready for a challenging but promising next day.</p>
-                                                        <ul>
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Meals- Breakfast, Lunch box and Dinner.
-                                                            </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges
-                                                            </li> -->
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Distance -  4hrs from Karanga Camp to Barafu Camp
-                                                            </li>
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Accommodation:Barafu Camp
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    <div class="accordion_flex_area">
-                                        <div class="accordion_left_side">
-                                            <h5>Day 8</h5>
-                                        </div>
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingEight">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseEight"
-                                                    aria-expanded="false" aria-controls="collapseEight">
-                                                    BARAFU CAMP TO UHURU SUMMIT TO MWEKA CAMP.
-                                                </button>
-                                            </h2>
-                                            <div id="collapseEight" class="accordion-collapse collapse"
-                                                aria-labelledby="headingEight" data-bs-parent="#accordionExample">
-                                                <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>Today it's a big day for all of us. The sense of achievement is undeniable.
-                                                        To be at the roof of Africa is the real deal. It is also the most challenging day. We wake up at midnight around 23.00 and have a small snack to energize our body and get ready to depart.
-                                                        Our first challenge will be to climb from 4600 metres to 5745 metres then another 150 metres of ascent and 45 min of walk to the Summit.The goal is to reach the Summit point at 07.00am,
-                                                        then the endless joy with lots of celebrations while taking photos of the life-time-experience will be our main activity on the roof of Africa. After the Summit we take our way back to Barafu for a hot lunch before descending to Mweka Camp for dinner and overnight. In total we cover 17km with about 13 hrs walking time.</p>
+                                                    <p?>Today it's a big day for all of us. The sense of achievement is undeniable. To be at the roof of Africa is the real deal. It is also the most challenging day. We wake up at midnight around 23.00 and have a small snack to energize our body and get ready to depart. Our first challenge will be to climb from 4600 metres to 5745 metres then another 150 metres of ascent and 45 min of walk to the Summit. 
+                                                        The goal is to reach the Summit point at 07.00am, then the endless joy with lots of celebrations while taking photos of the life-time-experience will be our main activity on the roof of Africa. After the Summit we take our way back to Barafu for a hot lunch before descending to Mweka Camp for dinner and overnight. In total we cover 17km with about 13 hrs walking time.</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -556,31 +512,32 @@
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation: Mweka Camp
+                                                                Accommodation:Mweka Camp
                                                             </li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="accordion_flex_area">
+                                    <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
-                                            <h5>Day 9</h5>
+                                            <h5>Day 8</h5>
                                         </div>
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingNine">
+                                            <h2 class="accordion-header" id="headingEight">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseNine"
-                                                    aria-expanded="false" aria-controls="collapseNine">
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseEight"
+                                                    aria-expanded="false" aria-controls="collapseEight">
                                                     MWEKA CAMP TO MWEKA GATE TO ARUSHA.
                                                 </button>
                                             </h2>
-                                            <div id="collapseNine" class="accordion-collapse collapse"
-                                                aria-labelledby="headingNine" data-bs-parent="#accordionExample">
+                                            <div id="collapseEight" class="accordion-collapse collapse"
+                                                aria-labelledby="headingEight" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>It's the first morning from accomplishing the real deal. The feeling is still fresh! Breakfast is served at 7.00am and read to depart at 9.00am,before that its a good time to give back to the fantastic climbing crew `Tipping ́then after descend to Mweka Gate stand 1640 metres high, here is where we will be served lunch while receiving your well deserved Certificate.
-                                                        Then followed by the ride back to Arusha for more relaxation activities and celebrations.</p>
+                                                    <p?>It's the first morning from accomplishing the Real Deal. The feeling is still fresh! Breakfast is served at 7.00am and read to depart at 9.00am,
+                                                        before that its a good time to give back to our fantastic and helpful climbing crew `Tipping ́then after descend to Mweka Gate stand 1640 metres high,
+                                                        here is where we will be served lunch while receiving your well deserved Certificate. Then followed by the ride back to Arusha for more relaxation activities and celebrations..</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -605,6 +562,45 @@
                                         </div>
                                         <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
+                                            <h5>Day 9</h5>
+                                        </div>
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header" id="headingNine">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse" data-bs-target="#collapseNine"
+                                                    aria-expanded="false" aria-controls="collapseNine">
+                                                    ARUSHA TO KILIMANJARO INT. AIRPORT.
+                                                </button>
+                                            </h2>
+                                            <div id="collapseNine" class="accordion-collapse collapse"
+                                                aria-labelledby="headingNine" data-bs-parent="#accordionExample">
+                                                <div class="accordion-body">
+                                                  <!-- < class="accordion_itinerary_list"> -->
+                                                    <p?>After a pleasant night rest in your hotel in Arusha, you will be served breakfast a little late within a checking-out time at 10.00am ( feel free to add more days in Arusha under your cost and please inform us in advance)
+                                                        If you have booked a transfer to the airport, you will be picked from the hotel by our driver and drop you at the Airport. For those travellers who booked to go to Safari our Guide will meet you in the hotel during the evening to provide you with a Safari briefing.</p>
+                                                        <ul>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Meals- Breakfast
+                                                            </li>
+                                                            <!-- <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Accommodation - campsite/ Lodges or VIP lodges
+                                                            </li> -->
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Distance - 2hrs from Arusha to Kilimanjaro Int. Airport.
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Accommodation: Hotel in Arusha
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="accordion_flex_area">
+                                        <div class="accordion_left_side">
                                             <h5>Day 10</h5>
                                         </div>
                                         <div class="accordion-item">
@@ -619,7 +615,7 @@
                                                 aria-labelledby="headingTen" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>After a pleasant night rest in your hotel in Arusha, you will be served breakfast a little late within a checking-out time at 10.00am (feel free to add more days in Arusha under your cost and please inform us in advance)
+                                                    <!-- <p?>After a pleasant night rest in your hotel in Arusha, you will be served breakfast a little late within a checking-out time at 10.00am (feel free to add more days in Arusha under your cost and please inform us in advance)
                                                         If you have booked a transfer to the airport, you will be picked from the hotel by our driver and drop you at the Airport. For those travellers who booked to go to Safari our Guide will meet you in the hotel during the evening to provide you with a Safari briefing.</p>
                                                         <ul>
                                                             <li>
@@ -630,10 +626,10 @@
                                                                 <i class="fas fa-circle"></i>
                                                                 Accommodation - campsite/ Lodges or VIP lodges
                                                             </li> -->
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Distance - 2hrs from Arusha to Kilimanjaro Int. Airport 
-                                                            </li>
+                                                            </li> -->
                                                             <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Accommodation: Hotel in Arusha
@@ -641,7 +637,7 @@
                                                         </ul>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> --> -->
                                         </div>
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Included/Excluded</h3>
