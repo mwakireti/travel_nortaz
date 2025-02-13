@@ -90,11 +90,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="common_bannner_text">
-                        <h2>5 DAYS - LIVELY WILDLIFE.</h2>
+                        <h2>MARANGU WATERFALLS.</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Safari</a></li>
-                            <li><span><i class="fas fa-circle"></i></span> 5 DAYS - LIVELY WILDLIFE.</li>
+                            <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Day trip</a></li>
+                            <li><span><i class="fas fa-circle"></i></span> MARANGU WATERFALLS.</li>
                         </ul>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">
                                 <h2>Explore the wild safari.</h2>
-                                <h5><i class="fas fa-map-marker-alt"></i> 5 DAYS - LIVELY WILDLIFE.
+                                <h5><i class="fas fa-map-marker-alt"></i> MARANGU WATERFALLS.
                                 </h5>
                             </div>
                             <div class="tour_details_top_heading_right">
@@ -127,7 +127,7 @@
                                 </div>
                                 <div class="tour_details_top_bottom_text">
                                     <h5>Duration</h5>
-                                    <p>7 days</p>
+                                    <p>Day Trip</p>
                                 </div>
                             </div>
                             <div class="toru_details_top_bottom_item">
@@ -154,7 +154,7 @@
                                 </div>
                                 <div class="tour_details_top_bottom_text">
                                     <h5>Location</h5>
-                                    <p>Serengeti National Park</p>
+                                    <p>MARANGU WATERFALLS</p>
                                 </div>
                             </div>
                         </div>
@@ -209,16 +209,15 @@
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Trip Info</h3>
                             <div class="tour_details_boxed_inner">
-                                <p> Did you miss driving around? Do you wanna step up your Racing Game? Here is your chance to set higher your competition adrenaline.
-                                    Nortaza Safari we organize Go Karting as one of the activities that can fill up your day trip, from 2 people to a group of 8 people.
-                                    Good quality equipment and kids playing ground will even add up in a great family environment.</p>
+                                <p> DThe waterfalls are located in the Kilimanjaro National Park, the top Glacier of Mt. Kilimanjaro is the main source of Marangu Waterfalls. The tropical rainforest, exotic plants, numerous species of birds and excellent hiking location are some of the major activities to fill up your day trip. A chance to visit some of the cultural activities such as traditional blacksmith, experience the daily life of the locals and also visit the coffee farms. 
+                                    Delicious picnic Lunch, soft drinks and fresh fruits will be served by the waterfall. At the waterfalls you can refresh in cool crystal water. Do not forget to bring your swimwear.</p>
                                 <!-- <p>
                                 ACTIVITIES:Our main activities are Game drive and village tour.
                                 One may also spot, Zebras, giraffe, elephant migration, dwarf mongoose, dik dik, lion, impala, snake, baboons, jackal, buffalo, hippo, blue monkey, waterbuck, flamingo, warthog, acacia woodlands, Serengeti savannah, wildebeest, impala, rhino, gazelles, cheetahs, spotted hyena, ostriches and unique bird species.
                                 WE OFFER:Our services in three different levels of accomodations, Basic, Luxury and Premium. .</p> -->
 
                         <div class="tour_details_boxed">
-                            <h3 class="heading_theme">Go kart location</h3>
+                            <h3 class="heading_theme">location</h3>
                             <div class="map_area">
                                 <iframe
                                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127449.70342141512!2d36.59481074513824!3d-3.398140243905732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18371c88f2387383%3A0xbc1907f7ec497152!2sArusha%2C%20Tanzania!5e0!3m2!1sen!2ske!4v1733854338051!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
