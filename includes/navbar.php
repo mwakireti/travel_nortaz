@@ -80,8 +80,28 @@
                       </li>
                     </ul>
                   </li>
-
                   <li class="nav-item">
+                    <a href="climbtrekk" class="nav-link">Day Trips<i class="fas fa-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                      <li class="nav-item">
+                        <a href="10days-lemosho-route.php" class="nav-link">Go Karting</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="9days-machame-route.php" class="nav-link">Chemka Hot Spring</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="8days-rongai-route.php" class="nav-link">Marangu Waterfalls</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="7days-marangu-route.php" class="nav-link">BBQ & Street Food</a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="6days-mt-meru-route.php" class="nav-link">Canoeing & Birdwatching</a>
+                      </li>
+                    </ul>
+                  </li>
+
+                  <!-- <li class="nav-item">
                     <a href="javascript:void(0);"
                       class="nav-link">Trips <i
                         class="fas fa-angle-down"></i></a>
@@ -129,10 +149,10 @@
                               class="nav-link">Honeymoon</a>
                           </li>
                         </ul>
-                      </li>
+                      </li> -->
 
-                    </ul>
-                  </li>
+                    <!-- </ul>
+                  </li> -->
                   <li class="nav-item">
                     <a href="about"
                       class="nav-link">About</a>
