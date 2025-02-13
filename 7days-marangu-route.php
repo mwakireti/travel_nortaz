@@ -390,16 +390,16 @@
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges
+                                                                Accommodation - Kibo Hut
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 4.5hrs drive from Manyara to Serengeti
+                                                                Distance -  4 - 5hrs from Horombo Hut to Kibo Hut
                                                             </li>
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Activities- Game drives
-                                                            </li>
+                                                            </li> -->
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -415,34 +415,32 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
-                                                    SERENGETI NATIONAL PARK.
+                                                    KIBO HUT TO SUMMIT TO HOROMBO HUT.
                                                 </button>
                                             </h2>
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>It's nothing to compare with the feelings of being awakened by the gently melodic sounds of nature and the beautiful background songs from more than 500 bird species that live in the Serengeti. 
-                                                        After breakfast we collect our picnic lunch box and start the day by a game drive around the Serengeti, we set our focus on spotting the thrilling predators in their intimidating hunting face. 
-                                                        After our picnic lunch, we set off again to search for other animals and explore wildlife at large, trying to spot the so-called unseen world of nature ( both unusual animals, big and small  and miraculous nature divisions).
-                                                        Our expert guides will simplify the work. It is almost impossible to spend too much time in Serengeti and more than 1.5 million herbivores + thousands of predators - there is always something new and promising to see. 
-                                                        Hence drive back to our campsite for dinner, rest and  regain for the promising day.
+                                                    <p?>IWe wake at midnight, take a light breakfast and proceed to the Summit through Gilman's point that stands 18,640 ft high,
+                                                        As it's by far the most challenging part of the trek, today we focus on walking slowly to cut off the reference points from Williams point 5131 metres to Hans Myer Cave 5259 and lastly Gillmaans point 5719 metres. After reaching the African highest Point,
+                                                        will of course cheer each other up, celebrating our glorious climb while taking photos of our pride, then after we set our return to Kibo Hut, where we will be welcomed by a hot lunch around 12.00, followed by a short break before continuing to descent down to Horombo Camp for dinner and overnight.</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges.
+                                                                Accommodation - Horombo Hut
                                                             </li>
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Activities - Game drives.
-                                                            </li>
+                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals - Breakfast, Lunch box and Dinner.
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Activities- Game drives
+                                                                Distance - 13hrs from Kibo Hut to Horombo Hut.
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -458,34 +456,33 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSix"
                                                     aria-expanded="false" aria-controls="collapseSix">
-                                                    SERENGETI TO NGORONGORO CRATER.
+                                                    HOROMBO HUT TO MARANGU GATE TO ARUSHA.
                                                 </button>
                                             </h2>
                                             <div id="collapseSix" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>The marvelous sounds of Africa will wake you up from the pleasant sleep. After breakfast and collecting our packed lunch the adventure continues. 
-                                                        Today is a trip to the well known Ngorongoro Crater, One of Africa's great Natural wonders. Population of more than 25,000 large mammals, the landscape full of acacia trees, swamps, meadows and astonishing caldera made this place to be far ahead from other parks.
-                                                        Elephants, lions, Hyna, baboons, leopards, gazelle, African buffalo, giraffes, impala and even rare black rhinoceros find refuge here.
-                                                        Maasai is the tribe with the greatest privilege to share this amazing place with numerous kinds of animals, keep and feed their animals in one of Africa's greatest natural wonders and a World Heritage Site by UNESCO since 1978. All this together make the Ngorongoro Crater be of its Uniqueness.    Late afternoon we drove back to the campsite for a well deserved rest and delicious dinner from our chief. 
-                                                        <ul>
+                                                    <p?>It's the first morning from accomplishing the Real Deal. The feeling is still fresh! Breakfast is served at 7.00am and read to depart at 9.00am, before that its a good time to give back to our fantastic and helpful climbing crew `Tipping ́, 
+                                                        Then after we continue to descend further to Marangu Gate, we pause at Mandara for a delicious lunch around 12.00, we expect to reach Marangu Gate at 16.00 after covering a distance of 20km and between 6-7hrs be approximately the  walking time.
+                                                        You will be awarded a Certificate to recognise the massive effort you have shown.Our private Safari vehicle will be waiting for us at Marangu Gate, for a ride to the hotel in Arusha, where you will have a pleasant rest.
+                                                        Afterall you have been to the highest point in Africa, feel free to continue the celebration if you still have the energy.</p>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals- Breakfast, Lunch box and Dinner.
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges
+                                                                Accommodation - Arusha Hotel
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 3.5hrs from Serengeti to Ngorongoro Crater
+                                                                Distance - 7hrs from Marangu Gate to Arusha.
                                                             </li>
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Activities- Game drives
-                                                            </li>
+                                                            </li> -->
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -501,21 +498,20 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseSeven"
                                                     aria-expanded="false" aria-controls="collapseSeven">
-                                                    LAKE MANYARA N/ PARK (KARATU)  TO SERENGETI N/ PARK
+                                                    ARUSHA TO KILIMANJARO INT. AIRPORT.
                                                 </button>
                                             </h2>
                                             <div id="collapseSeven" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>As it's Departure day, it does not mean it has less to offer.  It's still enough time to enjoy the real pageant before you set your mind home.
-                                                        After a picnic lunch, we descend  into Ngorongoro crater for Game drives, exploring the short-grass plains of the crater floor, extinct volcano embraces 100sq meters alive with Lions, Hyena, baboons, leopards, gazelle, African buffalo, Giraffe and even rare black rhino. 
-                                                        Then we drive  you back to Arusha/ Airport.
+                                                    <p?>After a pleasant night rest in your hotel in Arusha, you will be served breakfast a little late within a checking-out time at 10.00am ( feel free to add more days in Arusha under your cost and please inform us in advance)
+                                                        If you have booked a transfer to the airport, you will be picked from the hotel by our driver and dropped at the Airport. For those travellers who booked to go to Safari our Guide will meet you in the hotel during the evening to provide you  info regarding Safari</p>
 
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Meals- Breakfast, Lunch box and Dinner.
+                                                                Meals- Breakfast.
                                                             </li>
                                                             <!-- <li>
                                                                 <i class="fas fa-circle"></i>
@@ -523,41 +519,40 @@
                                                             </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance -  5hrs from Ngorongoro to Airport. 3hrs from Ngorongoro to Arusha.
+                                                                Distance -  2hrs from Arusha to Kilimanjaro Int. Airport.
                                                             </li>
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Activities- Game drives
-                                                            </li>
+                                                            </li> -->
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                        <div class="tour_details_boxed">
+                                    <div class="tour_details_boxed">
                             <h3 class="heading_theme">Included/Excluded</h3>
                             <div class="tour_details_boxed_inner">
                                 <p>
                                 PRICE WILL INCLUDE:
                                 </p>
                                 <ul>
-                                    <li><i class="fas fa-circle"></i>Guarantee Price and guarantee Departure.</li>
-                                    <li><i class="fas fa-circle"></i>Arrival and Departure transfer TO/FROM Arusha  / Kilimanjaro int. Airport.
+                                    <li><i class="fas fa-circle"></i>Transport TO/FROM Kilimanjaro Int. Airport.</li>
+                                    <li><i class="fas fa-circle"></i>Trekking Crew Guides, Chiefs & Porters
                                     </li>
-                                    <li><i class="fas fa-circle"></i>Accommodation as indicated.</li>
-                                    <li><i class="fas fa-circle"></i>Activities as indicated.
-                                    </li>
-                                    <li><i class="fas fa-circle"></i>Meals as indicated.</li>
+                                    <li><i class="fas fa-circle"></i>Meals as shown.</li>
+                                    <li><i class="fas fa-circle"></i>Accommodation (in Arusha hotels and on the Mountain)</li>
+                                    <li><i class="fas fa-circle"></i>All park fee Entrance and Government taxes.</li>
                                     <li><i class="fas fa-circle"></i>All park fees and Government taxes.</li>
-                                    <li><i class="fas fa-circle"></i>Professional English-Speaking Driver-Guide.</li>
-                                    <li><i class="fas fa-circle"></i>Game drives in Land Cruiser with pop-up roof top with guarantee window seat.</li>
+                                    <li><i class="fas fa-circle"></i>Camping equipment (Sleeping tents, Dining tents, Sleeping mattress, Tables & Chairs and Utensils)</li>
+                                    <!-- <li><i class="fas fa-circle"></i>Award ( Certificate of Achievement)</li>
                                     <li><i class="fas fa-circle"></i>Bottled water and other cold drinks in the cooler while on the safari.</li>
                                     <li><i class="fas fa-circle"></i>Unlimited mileage on the Safari</li>
-                                    <li><i class="fas fa-circle"></i>Maximum of 6 passengers in the Safari vehicles.
+                                    <li><i class="fas fa-circle"></i>Maximum of 6 passengers in the Safari vehicles. -->
                                     </li>
                                 </ul>
-                                <p>
+                                <!-- <p>
                                 PRICE WILL EXCLUDE:
                                 </p>
                                 <ul>
@@ -572,8 +567,7 @@
                                     <li><i class="fas fa-circle"></i>Laundry services.</li>
                                     <li><i class="fas fa-circle"></i>Drinks at the Lodge/ Campsite.</li>
                                    
-                                </ul>
-                            </div>
+                                </ul> -->
                         </div>
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Safari location</h3>
