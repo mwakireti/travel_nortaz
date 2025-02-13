@@ -81,10 +81,10 @@
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a href="climbtrekk" class="nav-link">Day Trips<i class="fas fa-angle-down"></i></a>
+                    <a href="daytrips.php" class="nav-link">Day Trips<i class="fas fa-angle-down"></i></a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="10days-lemosho-route.php" class="nav-link">Go Karting</a>
+                        <a href="gokarting.php" class="nav-link">Go Karting</a>
                       </li>
                       <li class="nav-item">
                         <a href="9days-machame-route.php" class="nav-link">Chemka Hot Spring</a>
