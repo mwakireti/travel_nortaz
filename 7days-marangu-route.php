@@ -90,11 +90,11 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="common_bannner_text">
-                        <h2>7 DAYS - PERFECT COMBO</h2>
+                        <h2>7 DAYS MARANGU ROUTE.</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Safari</a></li>
-                            <li><span><i class="fas fa-circle"></i></span> 7 days Safari Tour</li>
+                            <li><span><i class="fas fa-circle"></i></span><a href="tour-search.html">Trekk & Climb</a></li>
+                            <li><span><i class="fas fa-circle"></i></span> 7 days Marangu Route</li>
                         </ul>
                     </div>
                 </div>
@@ -110,8 +110,8 @@
                     <div class="tour_details_leftside_wrapper">
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">
-                                <h2>Explore the wild safari.</h2>
-                                <h5><i class="fas fa-map-marker-alt"></i> 7 DAYS - `PERFECT COMBO ́
+                                <h2>Explore Our Sceneries.</h2>
+                                <h5><i class="fas fa-map-marker-alt"></i> 7 DAYS MARANGU ROUTE.
                                 </h5>
                             </div>
                             <div class="tour_details_top_heading_right">
@@ -154,7 +154,7 @@
                                 </div>
                                 <div class="tour_details_top_bottom_text">
                                     <h5>Location</h5>
-                                    <p>Serengeti National Park</p>
+                                    <p>Marangu</p>
                                 </div>
                             </div>
                         </div>
@@ -209,17 +209,14 @@
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Trip Info</h3>
                             <div class="tour_details_boxed_inner">
-                                <p>The main gates towards a tremendous experience and the remarkable lifetime memory brought to you by the perfect combo package,
-                                    starts by hitting the road from Arusha to an amazing destinations of Tarangire well known for high density of Elephants and the icon of African savannah Baobab trees, 
-                                    next stop is Lake manyara  the home of tree-climbing lions and the Great Rift valley. Thereafter, heading to the Serengeti.The world's oldest Ecosystem and home of the annual great migration and finally to the World's largest inactive and intact volcanic caldera, Ngorongoro conservation area.
-
-                                </p>
-                                <p>
+                                <p>7 days under the Marangu route, well known for its moderate slopes that makes it less difficult to climb. It is the most popular way up to the highest peak in Africa, also the shortest one. It's the only route with emergency evacuation services and by far the only route offering the dormitory style huts with the dining rooms.
+                                    Our private vehicle will take you TO and pick you FROM the starting point of the trek.</p>
+                                <!-- <p>
                                 ACTIVITIES:
                                 Game drive and Village visit.One may also spot, Zebras, giraffe, elephant migration, dwarf mongoose, dik dik, lion, impala, snake, baboons, jackal, buffalo, hippo, blue monkey, waterbuck,
                                 flamingo, warthog, acacia woodlands, Serengeti savannah, wildebeest, impala, rhino, gazelles, cheetahs, spotted hyena, ostriches and unique bird species.
 
-                                WE OFFER:Our services are in three different levels of accomodations, Basic, Luxury and Premium.  </p>
+                                WE OFFER:Our services are in three different levels of accomodations, Basic, Luxury and Premium.  </p> -->
                                 <!-- <ul>
                                     <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
                                     <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian culture
@@ -252,13 +249,7 @@
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>Karibu! Warmly welcomed by our driver/ guides holding a paper with your name on it, 
-                                                 will be our first step towards the vacation of your dreams. A drive will take approximately 1hr to reach the  hotel in Arusha.  
-                                                 After a long flight, we will humbly introduce you to the East Africa Capital of Tourism, Arusha. 
-                                                 It's in north eastern Tanzania, stands 1400 meters above sea level, keeping temperatures and relatively low humidity. 
-                                                 In this beautiful city you will also find the 9th highest mountain in Africa and Arusha National Park. 
-                                                 During clear days Mt. Killimanjaro can also be spotted from Arusha. It's also the starting point to Serengeti and Ngorongoro Crater games.</p>
-                                                 
+                                                <p?>On your arrival at Kilimanjaro Int. Airport, Our driver-guide will happily pick you from the airport to the hotels in Arusha. Drive will take 1hr.</p>
                                                     <!-- <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
@@ -303,42 +294,32 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    ARUSHA TO TARANGIRE N/PARK.
+                                                    ARUSHA TO MARANGU GATE TO MANDARA HUT.
                                                 </button>
                                             </h2>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>Today, After breakfast at the hotel, We grab our delicious picnic lunch and  drive to Tarangire National Park. 
-                                                    Here we will enjoy our Game drive at the Elephant's home ground while spotting other wild animals in their natural habitats. During dry seasons,
-                                                    the Tarangire river shrinks and draws multitudes of thirsty wildlife with the greatest concentration outside of the Serengeti.
-                                                    The evergreen swamps are the focus for 550 birds varieties. Tarangire is also a home to buffalo, zebra, wildebeest, lions, gazelle and the list is endless.
-                                                    Landscape full of acacia trees, resplendent baobab trees and the rolling savannah. After  the astonishing day in the wildlife, we are off to the campsite for the pleasant evening meal and well deserve rest.
-                                                 
-                                                  Accommodation - campsite/ Lodges or VIP lodges
-                                                  Distance - 3hrs drive from  Arusha to Tarangire
-                                                  Activities- Game drives, Meals-Breakfast, Lunch Box and Dinner.</p>
-                                                    <!-- <div class="accordion_itinerary_list">
+                                                <p?>We start the day by an early breakfast from the hotel at 7.00am, followed by a drive to Marangu Gate where we will spend approximately 2hrs for the registration process and final parking of our trekking gears.
+                                                    From there we start the climb through semi-tropical forest, in the rainforest , looking for towering Eucalyptus trees, bird life and Colobus Monkeys. In the lower slopes it can be wet and muddy, so gaiters and climbing poles will help, 
+                                                    Keep your warm clothes and rain gear handy, but shorts and T-shirts should be enough. A pause on our half-way will be applied for a picnic lunch, before continuing to climb towards Mandara Hut. A total distance just over 8km is to be covered with the walking time between 3 - 4hrs,
+                                                    Wexpect to be at Mandara Hut around 17.00 and dinner will be served at 19.30. As our accommodation is offered in the dormitories, we advise you to bring earplugs.</p>
+                                                    <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                There are many variations of passages of Lorem Ipsum
-                                                                available, but the majority have
-                                                                suffered alteration in some form
+                                                                Accommodation - Mandara Hut
+                                                            </li> 
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
+                                                                Meals - Breakfast, Lunch Box and Dinner
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Lorem Ipsum is that it has a more-or-less normal
-                                                                distribution of letters, to using 'Content here
-                                                            </li>
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                The standard chunk of Lorem Ipsum used since the 1500s
-                                                                is
-                                                                reproduced below for those interested.
+                                                                Distance - 4hrs from Marangu Gate to Mandara Hut
                                                             </li>
                                                         </ul>
-                                                    </div> -->
+                                                    </div> 
                                                 </div>
                                             </div>
                                         </div>
@@ -352,32 +333,28 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    TARANGIRE TO LAKE MANYARA N/PARK.
+                                                    MANDARA HUT TO HOROMBO HUT.
                                                 </button>
                                             </h2>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>We begin our day early, After breakfast we bring our picnic lunch box and drive to Manyara National Park for a Game drive,
-                                                    After a lovely day full of wildlife experiences, in the evening we will drive to a small town of Karatu for overnight.
-                                                    Lake Manyara ́s acacia woodland is home to its legendary elephants and tree-climbing lions.
-                                                    An expanse of lush grounded water forest of ancient mahogany trees are contrasted by grassy floodplain with views across the alkaline lake to the volcanic peaks of the Maasai steppe.
-                                                    By the end of the day you could easily spot elephants, buffalo, lion, giraffe, flamingos, more than 400 birds and many other species.
-                                                    Later in the afternoon we headed back to the campsite for a good relaxation and delicious dinner.
+                                                <p?>Today breakfast is to be served at 7.30am, then pack for your next trek trip, we leave the camp around 8.30am and hike for an hour through the rainforest glades, then follow an ascending path through heathland where you can look for giant lobelias and groundsels.
+                                                    On the way we enjoyed our picnic lunch before continuing our trek and reaching Horombo Hut around 16.00. Dinner will be served at 18.00 followed by pleasant rest before overnight. On clear days it should be possible to see the snow-capped peak of Kibo and the distinctive Mawenzi Peak.</p>
                                                     <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges.
+                                                                Accommodation - Horombo Hut 
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 2hrs drive from Tarangire to Manyara and 1.5hrs drive to Kaaratu.
+                                                                Distance -  6hrs from Mandara to Horombo Hut
                                                             </li>
-                                                            <li>
+                                                            <!-- <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Activities - Game drives
-                                                            <li>
+                                                            <li> -->
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals - Breakfast, Lunch box and Dinner.
                                                             </li>
@@ -396,22 +373,16 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    LAKE MANYARA N/ PARK (KARATU)  TO SERENGETI N/ PARK
+                                                    HOROMBO HUT TO KIBO HUT.
                                                 </button>
                                             </h2>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                   <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>We leave Karatu after breakfast, grab our picnic lunch box and hitting the road towards the well known park and UNESCO World heritage site, The Serengeti. Game drive,
-                                                        spotting animals and exploring miraculous nature that the Serengeti has to offer are the main activities, Our qualified guides will make sure you are supplied with all the history and necessary infos about the park.
-                                                     After a delicious lunch, it's the chance to seek some more great wildlife-spotting at the home of the great migration,
-                                                     The long plains are home to elephants, leopards, buffalo, cheetah, lion, hippo, crocodile and many other species, 
-                                                     The Serengeti offers the most scintillating game viewing in Africa all year around. Its Ecosystem, the oldest on earth and unchanged for millenia. 
-                                                     The spectacle predators versus prey-dominates -with a large population of all three African jackal species and spotted hyena.
-                                                     After a whole day exploring the greatness of nature, surround yourself with the smell of Africa and make yourself neighbor to the wildlife.
-                                                     It's time to wrap-up the day by watching the sunset over the savannah, behind the acacia woodland that will paint the sky with brilliant colours.<p>
-                                                     Thereafter we will drive back to our campsite for dinner and pep talk about our day highlights.
+                                                    <p?>After breakfast, we ascending further to Kibo Hut, where land becomes more stony and eroded, its 9km in total to be covered with the walking distance of 4-5hrs, 
+                                                        On the way we will be served picnic lunch and then continuing with the climb towards the Mawenzi ridge and across the barren, dry terrans known as the Saddle.
+                                                        Dinner today will be served at 17.30, Please be advised for an early sleep that will help you in the preparation for the challenging Summit day ahead.<p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
