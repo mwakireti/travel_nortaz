@@ -76,7 +76,7 @@
                         <a href="7days-marangu-route.php" class="nav-link">7 Days Marangu Route</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">6 Days mt Meru Route</a>
+                        <a href="6days-mt-meru-route.php" class="nav-link">6 Days mt Meru Route</a>
                       </li>
                     </ul>
                   </li>
