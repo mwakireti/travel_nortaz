@@ -32,9 +32,9 @@
         </div>
         <div class="footer_link_area">
           <ul>
-            <li><a href="about.php">About Us</a></li>
-            <li><a href="tour-guides.php">Meet the Team </a></li>
-            <li><a href="news.php">Blog</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Meet the Team </a></li>
+            <li><a href="#">Blog</a></li>
           </ul>
         </div>
       </div>
@@ -44,9 +44,9 @@
         </div>
         <div class="footer_link_area">
           <ul>
-            <li><a href="testimonials">Legal</a></li>
-            <li><a href="contact">Contact</a></li>
-            <li><a href="privacy-policy">Privacy Policy</a></li>
+            <li><a href="#">Legal</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Privacy Policy</a></li>
           </ul>
         </div>
       </div>
@@ -56,7 +56,7 @@
     <div class="row align-items-center">
       <div class="co-lg-6 col-md-6 col-sm-12 col-12">
         <div class="copyright_left">
-          <p>Copyright © 2024 Nortazsafari ltd All Rights Reserved</p>
+          <p>Copyright © 2024 dreamy exploration Kenya Safaris ltd All Rights Reserved</p>
         </div>
       </div>
       <div class="co-lg-6 col-md-6 col-sm-12 col-12">
