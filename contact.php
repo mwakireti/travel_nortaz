@@ -124,7 +124,7 @@
                                 There are many variations of passages of Lorem Ipsum available but the majority.</p>
                         </div>
                         <div class="contact_form_two">
-                            <form id="messageForm">
+                            <form id="messageForm" autocomplete="off">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group">
@@ -139,7 +139,7 @@
                                     <div class="col-lg-6">
                                         <div class="form-group">
                                             <input type="email" name="email" class="form-control bg_input"
-                                                placeholder="Email address" required>
+                                                placeholder="Email address"  autocomplete="new-password" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
