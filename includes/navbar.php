@@ -1,3 +1,25 @@
+     <!-- preloader Area -->
+     <div class="preloader">
+        <div class="d-table">
+            <div class="d-table-cell">
+                <div class="lds-spinner">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <header class="main_header_arae navbar_color_black">
       <!-- Top Bar -->
       <div class="topbar-area">

@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="zxx">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title -->
-    <title>Nortaz Safari Tours </title>
+    <title>Nortaz Safari Tours - 10 days Limosho Route</title>
     <!-- Bootstrap css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!-- animate css -->
@@ -35,28 +36,6 @@
 </head>
 
 <body>
-    <!-- preloader Area -->
-    <div class="preloader">
-        <div class="d-table">
-            <div class="d-table-cell">
-                <div class="lds-spinner">
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- Header Area -->
     <?php
     include "includes/navbar.php"
@@ -92,9 +71,8 @@
                     <div class="common_bannner_text">
                         <h2>10 Days lemosho route</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><span><i class="fas fa-circle"></i></span><a href="climbtrekk">Climb & Trekk.</a></li>
-                            <li><span><i class="fas fa-circle"></i></span> 10 Days Trekk route</li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><span><i class="fas fa-circle"></i></span>10 Days lemosho route</li>
                         </ul>
                     </div>
                 </div>
@@ -106,13 +84,12 @@
     <section id="tour_details_main" class="section_padding">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-lg-12">
                     <div class="tour_details_leftside_wrapper">
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">
                                 <h2>Explore our sceneries.</h2>
-                                <h5><i class="fas fa-map-marker-alt"></i> 10 days Lemosho Route.
-                                </h5>
+                                <h5><i class="fas fa-map-marker-alt"></i> 10 days Lemosho Route.</h5>
                             </div>
                             <div class="tour_details_top_heading_right">
                                 <h4>Excellent</h4>
@@ -145,7 +122,7 @@
                                 </div>
                                 <div class="tour_details_top_bottom_text">
                                     <h5>Group size</h5>
-                                    <p> 5-50 people</p>
+                                    <p>50 people</p>
                                 </div>
                             </div>
                             <div class="toru_details_top_bottom_item">
@@ -163,66 +140,17 @@
                                 <div>
                                     <img src="assets/img/common/F lion1.png" alt="img">
                                 </div>
-                                <!-- <div>
-                                    <img src="assets/img/common/NTCAR.png" alt="img">
-                                </div>
-                                <div>
-                                    <img src="assets/img/holiday-img/Kade.png" alt="img">
-                                </div>
-                                <div>
-                                    <img src="assets/img/holiday-img/zebra.png" alt="img">
-                                </div> -->
-                                <!-- <div>
-                                    <img src="assets/img/tour/big-img5.png" alt="img">
-                                </div>
-                                <div>
-                                    <img src="assets/img/tour/big-img6.png" alt="img">
-                                </div>
-                                <div>
-                                    <img src="assets/img/tour/big-img7.png" alt="img">
-                                </div> -->
+                        
                             </div>
-                            <div class="slider slider-nav">
-                                <div>
-                                    <img src="assets/img/common/NTCAR.png" alt="img">
-                                </div>
-                                <!-- <div>
-                                    <img src="assets/img/holiday-img/Kade.png" alt="img">
-                                </div> -->
-                                <!-- <div>
-                                    <img src="assets/img/tour/small3-img.png" alt="img">
-                                </div>
-                                <div>
-                                    <img src="assets/img/tour/small4-img.png" alt="img">
-                                </div>
-                                <div>
-                                    <img src="assets/img/tour/small5-img.png" alt="img">
-                                </div>
-                                <div>
-                                    <img src="assets/img/tour/small6-img.png" alt="img"> -->
-                                <!-- </div>
-                                <div>
-                                    <img src="assets/img/holiday-img/zebra.png" alt="img">
-                                </div> -->
-                            </div>
+                         
                         </div>
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Trip Info</h3>
                             <div class="tour_details_boxed_inner">
                                 <p>This is without a doubt, the longest and the little used route, its unspoiled and most beautiful way up to the Shira plateau.
                                     The landscape is varied, with possible animal sightings on the first day hike. This is one of the few routes where an armed ranger will accompany our group, since there are animals in the forest around Lemosho Glades.
-                                    Our private vehicle will take you TO and pick you FROM the starting point of the trek. Accommodation under this route is Basic, whereby guests will sleep in tented camps.</p>
-                                <!-- <ul>
-                                    <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
-                                    <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian culture
-                                    </li>
-                                    <li><i class="fas fa-circle"></i>Complimentary Camel safari, Bonfire, and Cultural
-                                        Dance at Camp</li>
-                                    <li><i class="fas fa-circle"></i>All toll tax, parking, fuel, and driver allowances
-                                    </li>
-                                    <li><i class="fas fa-circle"></i>Comfortable and hygienic vehicle (SUV/Sedan) for
-                                        sightseeing on all days as per the itinerary.</li>
-                                </ul> -->
+                                    Our private vehicle will take you TO and pick you FROM the starting point of the trek. Accommodation under this route is Basic, whereby guests will sleep in tented camps.
+                                </p>
                             </div>
                         </div>
                         <div class="tour_details_boxed">
@@ -244,39 +172,16 @@
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>On your arrival at Kilimanjaro Int. Airport, Our driver-guide will happily pick you from the airport to the hotels in Arusha.
-                                                    Drive will take 1hr.</p>
-                                                    <!-- <div class="accordion_itinerary_list">
+                                                    <div class="accordion_itinerary_list">
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Karibu! Warmly welcomed by our driver/ guides holding a paper with your name on it, will be our first step towards the vacation of your dreams. 
-                                                                A drive will take approximately 1hr to reach the  hotel in Arusha.
+                                                                On your arrival at Kilimanjaro Int. Airport, Our driver-guide will happily pick you from the airport to the hotels in Arusha.
+                                                                Drive will take 1hr.
                                                             </li>
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Contrary to popular belief, Lorem Ipsum is not simply
-                                                                random
-                                                            </li>
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Many desktop publishing packages and web page editors
-                                                                now
-                                                                use
-                                                            </li>
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Lorem Ipsum is that it has a more-or-less normal
-                                                                distribution of letters, to using 'Content here
-                                                            </li>
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                The standard chunk of Lorem Ipsum used since the 1500s
-                                                                is
-                                                                reproduced below for those interested.
-                                                            </li>
+                                                           
                                                         </ul>
-                                                    </div> -->
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -296,10 +201,12 @@
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>After breakfast at 7:00am, We drive to Londorosi Gate for a few minutes of registrations and other formalities.
-                                                    At 12:00 We will take our picnic lunch then a short drive to our trekking starting point.
-                                                    The walk of 3.5 - 4 hrs to the distance of 7km is expected to take us to our first camp Mti mkubwa Campsite that stands 9200tf high, We will camp here for dinner and overnight. </p>
                                                     <div class="accordion_itinerary_list">
+                                                        <p>
+                                                        After breakfast at 7:00am, We drive to Londorosi Gate for a few minutes of registrations and other formalities.
+                                                    At 12:00 We will take our picnic lunch then a short drive to our trekking starting point.
+                                                    The walk of 3.5 - 4 hrs to the distance of 7km is expected to take us to our first camp Mti mkubwa Campsite that stands 9200tf high, We will camp here for dinner and overnight. 
+                                                        </p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -334,9 +241,9 @@
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                <p?>After an early breakfast we leave for Shira plateau that stands 11,550ft high, with the same distance as the first day but today we will be ascending from 2600 to 3500 metres under the waking time of 6-7hrs.
-                                                    We will eventually leave the forest environment behind as soon as we approach the moorlands to put ourselves in sight of the Shiraa Plateau and Kibo.
                                                     <div class="accordion_itinerary_list">
+                                                        <p>After an early breakfast we leave for Shira plateau that stands 11,550ft high, with the same distance as the first day but today we will be ascending from 2600 to 3500 metres under the waking time of 6-7hrs.
+                                                        We will eventually leave the forest environment behind as soon as we approach the moorlands to put ourselves in sight of the Shiraa Plateau and Kibo.</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -346,19 +253,15 @@
                                                                 <i class="fas fa-circle"></i>
                                                                 Distance - 7hrs from Mti Mkubwa to Shira I Camp.
                                                             </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Activities - Game drives -->
-                                                            <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Meals - Breakfast, Lunch box and Dinner.
-                                                            </li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+
+
+
                                     <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 4</h5>
@@ -374,8 +277,8 @@
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>Today we continue to hike across the high desert to Shira II Camp that stands 12,220 ft high. It's a steady, uphill climb with a distance of 7km,an expectation of 3-4hrs walking time.
+                                                    <div class="accordion_itinerary_list">
+                                                        <p>Today we continue to hike across the high desert to Shira II Camp that stands 12,220 ft high. It's a steady, uphill climb with a distance of 7km,an expectation of 3-4hrs walking time.
                                                         We expect to be at Shira II Camp around 13.00  whereby we will be served lunch followed by well deserved rest before our last meal and overnight.</p>
                                                         <ul>
                                                             <li>
@@ -388,24 +291,27 @@
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
+                                                                Many desktop publishing packages and web page editors
+                                                                now
+                                                                use
+                                                            </li>
+                                                            <li>
+                                                                <i class="fas fa-circle"></i>
                                                                 Distance - 4hrs from Shira I to Shira II Camp.
                                                             </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Activities- Game drives
-                                                            </li> -->
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                   <div class="accordion_flex_area">
+
+                                    <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 5</h5>
                                         </div>
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingFour">
+                                            <h2 class="accordion-header" id="headingFive">
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                                     aria-expanded="false" aria-controls="collapseFive">
@@ -415,18 +321,14 @@
                                             <div id="collapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                    <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>Today we continue to hike across the high desert to Shira II Camp that stands 12,220 ft high. It's a steady, uphill climb with a distance of 7km, an expectation of 3-4hrs walking time.
-                                                        We expect to be at Shira II Camp around 13.00  whereby we will be served lunch followed by well deserved rest before our last meal and overnight.
+                                                    <div class="accordion_itinerary_list">
+                                                        <p>Today we continue to hike across the high desert to Shira II Camp that stands 12,220 ft high. It's a steady, uphill climb with a distance of 7km, an expectation of 3-4hrs walking time.
+                                                        We expect to be at Shira II Camp around 13.00  whereby we will be served lunch followed by well deserved rest before our last meal and overnight.</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Accommodation -  Shira II Camp
                                                             </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Activities - Game drives.
-                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals - Breakfast, Lunch box and Dinner.
@@ -439,8 +341,10 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>         
-                        <div class="accordion_flex_area">
+                                        </div>
+                                    </div>
+
+                                    <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 6</h5>
                                         </div>
@@ -455,13 +359,13 @@
                                             <div id="collapseSix" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>We have breakfast around 7.30am, a walking time of 3.5-4hrs is expected to cover the distance of 4km. We will depart from Barranco Camp at 08.30am and arrive at Karanga Camp around 13.00 where our delicious dinner will be served,
+                                                    <div class="accordion_itinerary_list">
+                                                        <p>We have breakfast around 7.30am, a walking time of 3.5-4hrs is expected to cover the distance of 4km. We will depart from Barranco Camp at 08.30am and arrive at Karanga Camp around 13.00 where our delicious dinner will be served,
                                                         then you will  have a  pleasant rest while examining your highlight of the day before dinner and a calm night of sleep.</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Meals- Breakfast, Lunch box and Dinner.
+                                                                Meals- Breakfast, Lunch box and Dinner..
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -469,19 +373,16 @@
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance -  4hrs from Barranco Camp to Karanga Camp. 
+                                                                Distance -  4hrs from Barranco Camp to Karanga Camp.
                                                             </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Activities- Game drives
-                                                            </li> -->
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    <!-- </div> -->
-                                        <div class="accordion_flex_area">
+                                    </div>
+
+                                    <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 7</h5>
                                         </div>
@@ -496,18 +397,14 @@
                                             <div id="collapseSeven" class="accordion-collapse collapse"
                                                 aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>Today it's also a  short day. We will have our breakfast at 7.30am and start our hike around 8.30am. Ascending about 500 metres at a distance of 5km with the walking time between 3.5-4hrs.
+                                                    <div class="accordion_itinerary_list">
+                                                        <p>Today it's also a  short day. We will have our breakfast at 7.30am and start our hike around 8.30am. Ascending about 500 metres at a distance of 5km with the walking time between 3.5-4hrs.
                                                         We expect to be at Barafu Camp at 13.00 where our hot lunch will be served. Today's dinner will be served a bit earlier as it is a summit day ahead of us, So it's important to relax enough and make ourselves ready for a challenging but promising next day.</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals- Breakfast, Lunch box and Dinner.
                                                             </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges
-                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Distance -  4hrs from Karanga Camp to Barafu Camp
@@ -521,12 +418,13 @@
                                                 </div>
                                             </div>
                                         </div>
+                                    </div>
                                     <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 8</h5>
                                         </div>
                                         <div class="accordion-item">
-                                            <h2 class="accordion-header" id="headingEight">
+                                            <h2 class="accordion-header" id="headinEight">
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseEight"
                                                     aria-expanded="false" aria-controls="collapseEight">
@@ -536,8 +434,8 @@
                                             <div id="collapseEight" class="accordion-collapse collapse"
                                                 aria-labelledby="headingEight" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>Today it's a big day for all of us. The sense of achievement is undeniable.
+                                                    <div class="accordion_itinerary_list">
+                                                        <p>Today it's a big day for all of us. The sense of achievement is undeniable.
                                                         To be at the roof of Africa is the real deal. It is also the most challenging day. We wake up at midnight around 23.00 and have a small snack to energize our body and get ready to depart.
                                                         Our first challenge will be to climb from 4600 metres to 5745 metres then another 150 metres of ascent and 45 min of walk to the Summit.The goal is to reach the Summit point at 07.00am,
                                                         then the endless joy with lots of celebrations while taking photos of the life-time-experience will be our main activity on the roof of Africa. After the Summit we take our way back to Barafu for a hot lunch before descending to Mweka Camp for dinner and overnight. In total we cover 17km with about 13 hrs walking time.</p>
@@ -546,24 +444,21 @@
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals- Breakfast, Lunch box and Dinner.
                                                             </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges
-                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 13 hrs from Barafu to Mweka Camp.
+                                                                Distance - 3hrs from Mweka Gate to Arusha.
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation: Mweka Camp
+                                                                Accommodation: Hotel in Arusha
                                                             </li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="accordion_flex_area">
+                                    </div>
+                                    <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 9</h5>
                                         </div>
@@ -578,21 +473,17 @@
                                             <div id="collapseNine" class="accordion-collapse collapse"
                                                 aria-labelledby="headingNine" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>It's the first morning from accomplishing the real deal. The feeling is still fresh! Breakfast is served at 7.00am and read to depart at 9.00am,before that its a good time to give back to the fantastic climbing crew `Tipping ́then after descend to Mweka Gate stand 1640 metres high, here is where we will be served lunch while receiving your well deserved Certificate.
+                                                    <div class="accordion_itinerary_list">
+                                                        <p>It's the first morning from accomplishing the real deal. The feeling is still fresh! Breakfast is served at 7.00am and read to depart at 9.00am,before that its a good time to give back to the fantastic climbing crew `Tipping ́then after descend to Mweka Gate stand 1640 metres high, here is where we will be served lunch while receiving your well deserved Certificate.
                                                         Then followed by the ride back to Arusha for more relaxation activities and celebrations.</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals- Breakfast, Lunch box and Dinner.
                                                             </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges
-                                                            </li> -->
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Distance - 3hrs from Mweka Gate to Arusha.
+                                                                Distance - 3hrs from Mweka Gate to Arusha
                                                             </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
@@ -603,7 +494,8 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="accordion_flex_area">
+                                    </div>
+                                    <div class="accordion_flex_area">
                                         <div class="accordion_left_side">
                                             <h5>Day 10</h5>
                                         </div>
@@ -611,46 +503,63 @@
                                             <h2 class="accordion-header" id="headingTen">
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTen"
-                                                    aria-expanded="false" aria-controls="collapseNine">
+                                                    aria-expanded="false" aria-controls="collapseTen">
                                                     ARUSHA TO KILIMANJARO INT. AIRPORT.
                                                 </button>
                                             </h2>
                                             <div id="collapseTen" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTen" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
-                                                  <!-- < class="accordion_itinerary_list"> -->
-                                                    <p?>After a pleasant night rest in your hotel in Arusha, you will be served breakfast a little late within a checking-out time at 10.00am (feel free to add more days in Arusha under your cost and please inform us in advance)
-                                                        If you have booked a transfer to the airport, you will be picked from the hotel by our driver and drop you at the Airport. For those travellers who booked to go to Safari our Guide will meet you in the hotel during the evening to provide you with a Safari briefing.</p>
+                                                    <div class="accordion_itinerary_list">
+                                                        <p>After a pleasant night rest in your hotel in Arusha, you will be served breakfast a little late within a checking-out time at 10.00am (feel free to add more days in Arusha under your cost and please inform us in advance)
+                                                        If you have booked a transfer to the airport, you will be picked from the hotel by our driver and drop you at the Airport. For those travellers who booked to go to Safari our Guide will meet you in the hotel during the evening to provide you with a Safari briefing..</p>
                                                         <ul>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Meals- Breakfast, Lunch box and Dinner.
                                                             </li>
-                                                            <!-- <li>
+                                                            <li>
                                                                 <i class="fas fa-circle"></i>
-                                                                Accommodation - campsite/ Lodges or VIP lodges
-                                                            </li> -->
+                                                                Distance -  4hrs from Karanga Camp to Barafu Camp
+                                                            </li>
                                                             <li>
                                                                 <i class="fas fa-circle"></i>
                                                                 Distance - 2hrs from Arusha to Kilimanjaro Int. Airport 
                                                             </li>
-                                                            <!-- <li>
-                                                                <i class="fas fa-circle"></i>
-                                                                Accommodation: Hotel in Arusha
-                                                            </li> -->
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Included/Excluded</h3>
+                           
                             <div class="tour_details_boxed_inner">
                                 <p>
-                                PRICE WILL INCLUDE:
-                                </p>
+                                    PRICE WILL INCLUDE:
+                                    </p>
                                 <ul>
-                                    <li><i class="fas fa-circle"></i>Transport TO/FROM Kilimanjaro Int. Airport.</li>
+                                <li><i class="fas fa-circle"></i>Transport TO/FROM Kilimanjaro Int. Airport.</li>
+                                    <li><i class="fas fa-circle"></i>Trekking Crew Guides, Chiefs & Porters
+                                    </li>
+                                    <li><i class="fas fa-circle"></i>Meals as shown.</li>
+                                    <li><i class="fas fa-circle"></i>Accommodation (in Arusha hotels and on the Mountain)</li>
+                                    <li><i class="fas fa-circle"></i>All park fee Entrance and Government taxes.</li>
+                                    <li><i class="fas fa-circle"></i>All park fees and Government taxes.</li>
+                                    <li><i class="fas fa-circle"></i>Camping equipment (Sleeping tents, Dining tents, Sleeping mattress, Tables & Chairs and Utensils)</li>   <li><i class="fas fa-circle"></i>Transport TO/FROM Kilimanjaro Int. Airport.</li>
+                                    <li><i class="fas fa-circle"></i>Trekking Crew Guides, Chiefs & Porters
+                                    </li>
+                                    <li><i class="fas fa-circle"></i>Meals as shown.</li>
+                                    <li><i class="fas fa-circle"></i>Accommodation (in Arusha hotels and on the Mountain)</li>
+                                    <li><i class="fas fa-circle"></i>All park fee Entrance and Government taxes.</li>
+                                    <li><i class="fas fa-circle"></i>All park fees and Government taxes.</li>
+                                    <li><i class="fas fa-circle"></i>Camping equipment (Sleeping tents, Dining tents, Sleeping mattress, Tables & Chairs and Utensils)</li>   <li><i class="fas fa-circle"></i>Transport TO/FROM Kilimanjaro Int. Airport.</li>
                                     <li><i class="fas fa-circle"></i>Trekking Crew Guides, Chiefs & Porters
                                     </li>
                                     <li><i class="fas fa-circle"></i>Meals as shown.</li>
@@ -658,200 +567,26 @@
                                     <li><i class="fas fa-circle"></i>All park fee Entrance and Government taxes.</li>
                                     <li><i class="fas fa-circle"></i>All park fees and Government taxes.</li>
                                     <li><i class="fas fa-circle"></i>Camping equipment (Sleeping tents, Dining tents, Sleeping mattress, Tables & Chairs and Utensils)</li>
-                                    <!-- <li><i class="fas fa-circle"></i>Award ( Certificate of Achievement)</li>
-                                    <li><i class="fas fa-circle"></i>Bottled water and other cold drinks in the cooler while on the safari.</li>
-                                    <li><i class="fas fa-circle"></i>Unlimited mileage on the Safari</li>
-                                    <li><i class="fas fa-circle"></i>Maximum of 6 passengers in the Safari vehicles. -->
-                                    </li>
                                 </ul>
-                                <!-- <p>
-                                PRICE WILL EXCLUDE:
-                                </p>
-                                <ul>
-                                    <li><i class="fas fa-circle"></i>International and Domestic flight.</li>
-                                    <li><i class="fas fa-circle"></i>Items of a personal nature such as Passport, Visa.
-                                    </li>
-                                    <li><i class="fas fa-circle"></i>Travel & Medical insurance.</li>
-                                    <li><i class="fas fa-circle"></i>Tipping.
-                                    </li>
-                                    <li><i class="fas fa-circle"></i>Any changes added/done by you</li>
-                                    <li><i class="fas fa-circle"></i>Post night accommodation in Arusha.</li>
-                                    <li><i class="fas fa-circle"></i>Laundry services.</li>
-                                    <li><i class="fas fa-circle"></i>Drinks at the Lodge/ Campsite.</li>
-                                   
-                                </ul> -->
                             </div>
                         </div>
                         <div class="tour_details_boxed">
                             <h3 class="heading_theme">Safari location</h3>
                             <div class="map_area">
-                                <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127449.70342141512!2d36.59481074513824!3d-3.398140243905732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18371c88f2387383%3A0xbc1907f7ec497152!2sArusha%2C%20Tanzania!5e0!3m2!1sen!2ske!4v1733854338051!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127449.70342141512!2d36.59481074513824!3d-3.398140243905732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18371c88f2387383%3A0xbc1907f7ec497152!2sArusha%2C%20Tanzania!5e0!3m2!1sen!2ske!4v1733854338051!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-4">
-                    <div class="tour_details_right_sidebar_wrapper">
-                        <div class="tour_detail_right_sidebar">
-                            <div class="tour_details_right_boxed">
-                                <div class="tour_details_right_box_heading">
-                                    <h3>Standard package</h3>
-                                </div>
-                                <div class="valid_date_area">
-                                    <div class="valid_date_area_one">
-                                        <h5>Valid from</h5>
-                                        <p>01 Feb 2022</p>
-                                    </div>
-                                    <div class="valid_date_area_one">
-                                        <h5>Valid till</h5>
-                                        <p>15 Feb 2022</p>
-                                    </div>
-                                </div>
-                                <div class="tour_package_details_bar_list">
-                                    <h5>Package details</h5>
-                                    <ul>
-                                        <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
-                                        <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian
-                                            culture
-                                        </li>
-                                        <li><i class="fas fa-circle"></i>Complimentary Camel safari, Bonfire,</li>
-                                        <li><i class="fas fa-circle"></i>All toll tax, parking, fuel, and driver
-                                            allowances
-                                        </li>
-                                        <li><i class="fas fa-circle"></i>Comfortable and hygienic vehicle</li>
-                                    </ul>
-                                </div>
-                                <div class="tour_package_details_bar_price">
-                                    <h5>Price</h5>
-                                    <div class="tour_package_bar_price">
-                                        <h6><del>$ 35,500</del></h6>
-                                        <h3>$ 30,500 <sub>/Per serson</sub> </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tour_select_offer_bar_bottom">
-                                <button class="btn btn_theme btn_md w-100" data-bs-toggle="offcanvas"
-                                    data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">Select
-                                    offer</button>
-                            </div>
-                        </div>
-                        <div class="tour_detail_right_sidebar">
-                            <div class="tour_details_right_boxed">
-                                <div class="tour_details_right_box_heading">
-                                    <h3>Deluxe package</h3>
-                                </div>
-                                <div class="valid_date_area">
-                                    <div class="valid_date_area_one">
-                                        <h5>Valid from</h5>
-                                        <p>01 Feb 2022</p>
-                                    </div>
-                                    <div class="valid_date_area_one">
-                                        <h5>Valid till</h5>
-                                        <p>15 Feb 2022</p>
-                                    </div>
-                                </div>
-                                <div class="tour_package_details_bar_list">
-                                    <h5>Package details</h5>
-                                    <ul>
-                                        <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
-                                        <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian
-                                            culture
-                                        </li>
-                                        <li><i class="fas fa-circle"></i>Complimentary Camel safari, Bonfire,</li>
-                                        <li><i class="fas fa-circle"></i>All toll tax, parking, fuel, and driver
-                                            allowances
-                                        </li>
-                                        <li><i class="fas fa-circle"></i>Comfortable and hygienic vehicle</li>
-                                    </ul>
-                                </div>
-                                <div class="tour_package_details_bar_price">
-                                    <h5>Price</h5>
-                                    <div class="tour_package_bar_price">
-                                        <h6><del>$ 35,500</del></h6>
-                                        <h3>$ 30,500 <sub>/Per serson</sub> </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tour_select_offer_bar_bottom">
-                                <button class="btn btn_theme btn_md w-100" data-bs-toggle="offcanvas"
-                                    data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">Select
-                                    offer</button>
-                            </div>
-                        </div>
-                        <div class="tour_detail_right_sidebar">
-                            <div class="tour_details_right_boxed">
-                                <div class="tour_details_right_box_heading">
-                                    <h3>Super deluxe package</h3>
-                                </div>
-                                <div class="valid_date_area">
-                                    <div class="valid_date_area_one">
-                                        <h5>Valid from</h5>
-                                        <p>01 Feb 2022</p>
-                                    </div>
-                                    <div class="valid_date_area_one">
-                                        <h5>Valid till</h5>
-                                        <p>15 Feb 2022</p>
-                                    </div>
-                                </div>
-                                <div class="tour_package_details_bar_list">
-                                    <h5>Package details</h5>
-                                    <ul>
-                                        <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
-                                        <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian
-                                            culture
-                                        </li>
-                                        <li><i class="fas fa-circle"></i>Complimentary Camel safari, Bonfire,</li>
-                                        <li><i class="fas fa-circle"></i>All toll tax, parking, fuel, and driver
-                                            allowances
-                                        </li>
-                                        <li><i class="fas fa-circle"></i>Comfortable and hygienic vehicle</li>
-                                    </ul>
-                                </div>
-                                <div class="tour_package_details_bar_price">
-                                    <h5>Price</h5>
-                                    <div class="tour_package_bar_price">
-                                        <h6><del>$ 35,500</del></h6>
-                                        <h3>$ 30,500 <sub>/Per serson</sub> </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tour_select_offer_bar_bottom">
-                                <button class="btn btn_theme btn_md w-100" data-bs-toggle="offcanvas"
-                                    data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">Select
-                                    offer</button>
-                            </div>
-                        </div>
-                        <div class="tour_detail_right_sidebar">
-                            <div class="tour_details_right_boxed">
-                                <div class="tour_details_right_box_heading">
-                                    <h3>Why choose us</h3>
-                                </div>
-
-                                <div class="tour_package_details_bar_list first_child_padding_none">
-                                    <ul>
-                                        <li><i class="fas fa-circle"></i>Buffet breakfast as per the Itinerary</li>
-                                        <li><i class="fas fa-circle"></i>Visit eight villages showcasing Polynesian
-                                            culture
-                                        </li>
-                                        <li><i class="fas fa-circle"></i>Complimentary Camel safari, Bonfire,</li>
-                                        <li><i class="fas fa-circle"></i>All toll tax, parking, fuel, and driver
-                                            allowances
-                                        </li>
-                                        <li><i class="fas fa-circle"></i>Comfortable and hygienic vehicle</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
                     <div class="write_your_review_wrapper">
-                        <h3 class="heading_theme">Write your review</h3>
+                        <h3 class="heading_theme">Book Now</h3>
                         <div class="write_review_inner_boxed">
                             <form action="https://andit.co/projects/html/and-tour/demo/!#" id="news_comment_form">
                                 <div class="row">
@@ -873,7 +608,7 @@
                                                 class="form-control bg_input"></textarea>
                                         </div>
                                         <div class="comment_form_submit">
-                                            <button class="btn btn_theme btn_md">Post comment</button>
+                                            <button class="btn btn_theme btn_md">Book Now</button>
                                         </div>
                                     </div>
                                 </div>
@@ -882,6 +617,11 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+
+
     <!-- Cta Area -->
     <section id="cta_area">
         <div class="container">
@@ -908,14 +648,101 @@
                 </div>
             </div>
         </div>
-    </section> 
-
-    <!-- Footer  -->
-    <?php
+    </section>
+   <!-- Footer  -->
+   <?php
     include "includes/footer.php"
     ?>
-    <!-- Footer  -->
-    
+
+
+    <!-- Offcanvas Area -->
+    <!-- <div class="offcanvas select_offer_modal offcanvas-end" tabindex="-1" id="offcanvasRight"
+        aria-labelledby="offcanvasRightLabel">
+        <div class="offcanvas-header">
+            <h5 id="offcanvasRightLabel">Book now</h5>
+            <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <div class="side_canvas_wrapper">
+                <div class="travel_date_side">
+                    <div class="form-group">
+                        <label for="dates">Select your travel date</label>
+                        <input type="date" id="dates" value="2022-05-05" class="form-control">
+                    </div>
+                </div>
+                <div class="select_person_side">
+                    <h3>Select person</h3>
+                    <div class="select_person_item">
+                        <div class="select_person_left">
+                            <h6>Adult</h6>
+                            <p>12y+</p>
+                        </div>
+                        <div class="select_person_right">
+                            <div class="button-set">
+                                <button type="button">
+                                    <i class="fas fa-plus"></i>
+                                </button>
+                                <span>01</span>
+                                <button type="button">
+                                    <i class="fas fa-minus"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="select_person_item">
+                        <div class="select_person_left">
+                            <h6>Children</h6>
+                            <p>2 - 12 years</p>
+                        </div>
+                        <div class="select_person_right">
+                            <div class="button-set">
+                                <button type="button">
+                                    <i class="fas fa-plus"></i>
+                                </button>
+                                <span>01</span>
+                                <button type="button">
+                                    <i class="fas fa-minus"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="select_person_item">
+                        <div class="select_person_left">
+                            <h6>Infant</h6>
+                            <p>Below 2 years</p>
+                        </div>
+                        <div class="select_person_right">
+                            <div class="button-set">
+                                <button type="button">
+                                    <i class="fas fa-plus"></i>
+                                </button>
+                                <span>01</span>
+                                <button type="button">
+                                    <i class="fas fa-minus"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="write_spical_not">
+                        <label for="textse">Write any special note</label>
+                        <textarea rows="5" id="textse" class="form-control"
+                            placeholder="Write any special note"></textarea>
+                    </div>
+                    <div class="form-check write_spical_check">
+                        <input class="form-check-input" type="checkbox" value="" id="flexCheckDefaultf1">
+                        <label class="form-check-label" for="flexCheckDefaultf1">
+                            <span class="main_spical_check">
+                                <span>I read and accept all <a href="terms-service.html">Terms and conditios</a></span>
+                            </span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="proceed_booking_btn ">
+            <a href="tour-booking-submission.html" class="btn btn_theme btn_md w-100">Proceed to Booking</a>
+        </div>
+    </div> -->
 
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap js -->
