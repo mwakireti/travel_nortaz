@@ -106,7 +106,7 @@
     <section id="tour_details_main" class="section_padding">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-lg-12">
                     <div class="tour_details_leftside_wrapper">
                         <div class="tour_details_heading_wrapper">
                             <div class="tour_details_top_heading">

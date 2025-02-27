@@ -109,7 +109,7 @@
                         <a href="gokarting.php" class="nav-link">Go Karting</a>
                       </li>
                       <li class="nav-item">
-                        <a href="chemka-hotsprings.php" class="nav-link">Chemka Hot Spring</a>
+                        <a href="chemka-hotspring" class="nav-link">Chemka Hot Spring</a>
                       </li>
                       <li class="nav-item">
                         <a href="Marangu-waterfalls.php" class="nav-link">Marangu Waterfalls</a>
